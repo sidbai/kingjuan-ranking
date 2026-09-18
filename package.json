@@ -1,6 +1,6 @@
 {
   "name": "kingjuan-ranking",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The King Juan Soccer ranking rule — how youth soccer teams around Seattle are rated from their league level, their results and their trophies, and how leagues and tournament flights are tiered.",
   "license": "MIT",
   "repository": "github:sidbai/kingjuan-ranking",

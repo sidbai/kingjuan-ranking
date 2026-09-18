@@ -251,4 +251,9 @@ export const RULE_STEPS = [
         detail: "Three decided games to be ranked at all; a team with fewer than five is marked provisional.",
     },
 ];
+/**
+ * The rule in a breath — what the site and the app show, with a link to
+ * this repository for the rest. RULE_STEPS is the long form.
+ */
+export const RULE_SUMMARY = "Every team starts where its league puts it — ECNL at the top, then MLS Next, ECNL RL, EA and GA, RCL and WPL division by division — plus half of what it earned last season. Every decided game since May then moves both sides by how surprising the result was: tournament games count by the strength of the flight, a trophy adds a bonus by its tier, and playing up pays extra. Three decided games to be ranked; only Washington clubs’ own teams are listed.";
 export const RULE_NOTE = "A cohort is a gender and the oldest birth year on the team, so a \u201cB13/14\u201d side ranks with the 2013s \u2014 U13 this season, the way the leagues label it. Only Washington clubs\u2019 own teams are listed \u2014 not a training group or a travel side put together for one cup, and not an appearance nobody has linked to a club team yet; games against all of them still count.";
