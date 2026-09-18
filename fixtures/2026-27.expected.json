@@ -1,0 +1,5530 @@
+{
+ "boys-2007": [
+  {
+   "id": "fbec18f4-03c2-4753-8595-b46963ccfc7b",
+   "name": "XF B07/08 ECNL Heimbigner",
+   "rating": 2247,
+   "games": 16
+  },
+  {
+   "id": "1bd39e07-eca0-4a8a-8988-344f99ae97a8",
+   "name": "XF B07/08/09 ECNL 1",
+   "rating": 1993,
+   "games": 8
+  },
+  {
+   "id": "1cea067e-c867-455f-a20d-5723518d8282",
+   "name": "Seattle United B07/08 ECNL RL",
+   "rating": 1933,
+   "games": 7
+  },
+  {
+   "id": "4cccf3e4-4779-46ac-bbaa-95df1dbec84f",
+   "name": "WW Surf B07/08 MLS Next",
+   "rating": 1826,
+   "games": 12
+  },
+  {
+   "id": "fd527d20-bea3-455b-9241-5009cf2aa212",
+   "name": "Atletico Futbol Club B07/08 MLS Next",
+   "rating": 1814,
+   "games": 7
+  },
+  {
+   "id": "203ff4f8-67e1-4185-927f-5f157c67a669",
+   "name": "Seattle United B07/08 ECNL",
+   "rating": 1811,
+   "games": 3
+  },
+  {
+   "id": "b1a160ac-5323-45af-af3c-c5d392593c48",
+   "name": "Seattle Celtic B07/08 MLS Next 2",
+   "rating": 1807,
+   "games": 11
+  },
+  {
+   "id": "398c8cb0-0bea-46d2-ad29-85e6fd452f3b",
+   "name": "Snohomish United B07/08 ECNL RL",
+   "rating": 1754,
+   "games": 5
+  },
+  {
+   "id": "b9264ac7-8e70-466e-9910-835292e226a9",
+   "name": "BVB International Academy Washington B07/08/09 Elite Academy",
+   "rating": 1745,
+   "games": 5
+  },
+  {
+   "id": "98a34c97-ef2c-4bc2-9336-8774a3eafae1",
+   "name": "Sozo FC B07/08 MLS Next",
+   "rating": 1735,
+   "games": 8
+  },
+  {
+   "id": "7f51355c-2bb4-4b91-a662-8c97d774993e",
+   "name": "Seattle Celtic B07/08 MLS Next",
+   "rating": 1712,
+   "games": 11
+  },
+  {
+   "id": "89cbcfaf-b79f-40b3-a00b-2244db507d68",
+   "name": "Snohomish United B07/08 ECNL",
+   "rating": 1708,
+   "games": 3
+  },
+  {
+   "id": "df1a479d-4d7d-41f2-83c0-044f6d85eedb",
+   "name": "WW Surf B07/08 EA Blue",
+   "rating": 1667,
+   "games": 5
+  },
+  {
+   "id": "5265e07e-96de-4df3-89f4-f9c31f9b0886",
+   "name": "Sparta Tacoma B07/08/09 Red",
+   "rating": 1664,
+   "games": 8
+  },
+  {
+   "id": "cfcdc079-84f0-46d3-b362-d41464fa802b",
+   "name": "Washington East Surf Soccer Club B07/08 MLS Next",
+   "rating": 1652,
+   "games": 11
+  },
+  {
+   "id": "029a31da-9e86-475d-a2d1-c969b7427819",
+   "name": "Emerald City FC B07/08/09 EA",
+   "rating": 1649,
+   "games": 7
+  },
+  {
+   "id": "956be6fb-0d50-4b0d-836c-508eb4b88597",
+   "name": "Mt. Rainier FC B07/08/09 Academy-1",
+   "rating": 1647,
+   "games": 9
+  },
+  {
+   "id": "216de3cc-01bc-4c46-bdfb-e3cff9c49969",
+   "name": "Whatcom FC Rangers B07/08 ECNL RL",
+   "rating": 1625,
+   "games": 7
+  },
+  {
+   "id": "599cd71c-cc54-4602-b0a8-b87b85eb0437",
+   "name": "Washington Rush B07/08 MLSN",
+   "rating": 1616,
+   "games": 7
+  },
+  {
+   "id": "645d5f40-cb17-4aa1-ade5-ca0bdb62a04f",
+   "name": "Highline Premier FC B07/08/09 EA",
+   "rating": 1591,
+   "games": 4
+  },
+  {
+   "id": "7912c563-2ea5-4b45-9da2-2dd43710403b",
+   "name": "Seattle Celtic B07/08 EA",
+   "rating": 1586,
+   "games": 7
+  },
+  {
+   "id": "4e7139ee-8068-4d98-950f-b02f0c51da3c",
+   "name": "Valencia CF Academy B07/08 Seattle",
+   "rating": 1581,
+   "games": 4
+  },
+  {
+   "id": "a477b307-0163-4d57-9094-7ba2b0db8bbe",
+   "name": "Harbor Soccer Club B07/08",
+   "rating": 1574,
+   "games": 6
+  },
+  {
+   "id": "93607587-f1fe-49ab-985e-f86a0b4f1b88",
+   "name": "WW Surf B07/08 EA White",
+   "rating": 1574,
+   "games": 4
+  },
+  {
+   "id": "84973f52-ad83-45e9-aaf7-f5a72261d950",
+   "name": "Atletico Futbol Club B07/08 Rojo",
+   "rating": 1560,
+   "games": 5
+  },
+  {
+   "id": "5084db71-f936-4226-bef4-769cb592a792",
+   "name": "Highline Premier FC B07/08 (HSA) Hagenson",
+   "rating": 1527,
+   "games": 4
+  },
+  {
+   "id": "3907514d-ba6a-4340-88c6-022395660225",
+   "name": "Kitsap Alliance FC B07/08 White",
+   "rating": 1513,
+   "games": 7
+  },
+  {
+   "id": "5f2a5790-1de9-4548-a0c9-d13000ebaf83",
+   "name": "Kitsap Alliance FC B07/08 Blue",
+   "rating": 1474,
+   "games": 7
+  },
+  {
+   "id": "0d22e44f-9695-465d-943e-5ade6b3a709e",
+   "name": "Eastside FC B07/08 Red",
+   "rating": 1454,
+   "games": 6
+  },
+  {
+   "id": "7b68ff25-af63-4745-99c0-25da7727e0f5",
+   "name": "PacNW SC B07/08 Maroon",
+   "rating": 1442,
+   "games": 6
+  },
+  {
+   "id": "5524d938-af41-4b37-840f-aedeeeb7eb12",
+   "name": "Seattle United B07/08 Copa",
+   "rating": 1442,
+   "games": 3
+  },
+  {
+   "id": "6025804d-b089-4724-aa48-9cde0166babd",
+   "name": "Sparta Tacoma B07 White",
+   "rating": 1431,
+   "games": 4
+  },
+  {
+   "id": "56bd692d-2abe-430c-a23b-7e33659d7e99",
+   "name": "Emerald City FC B07/08 Green Hamel",
+   "rating": 1391,
+   "games": 3
+  },
+  {
+   "id": "a6977d3c-f943-4a01-9850-72781c1ee0df",
+   "name": "Emerald City FC B07/08 White",
+   "rating": 1376,
+   "games": 3
+  },
+  {
+   "id": "6af4a10c-97b9-4f7b-8a38-aaa71ebf27d5",
+   "name": "WW Surf Central Premier B07/08 HS",
+   "rating": 1372,
+   "games": 3
+  },
+  {
+   "id": "523a754a-4fea-43fa-8d30-bf2237295f5e",
+   "name": "WPFC B07/08 Black",
+   "rating": 1363,
+   "games": 9
+  },
+  {
+   "id": "c983148a-c5ab-4a8d-af1c-8b7303edc0ef",
+   "name": "XF Select B07/08 A Rasam",
+   "rating": 1363,
+   "games": 3
+  },
+  {
+   "id": "11449f31-3f02-4765-b72b-df1af54ee4f5",
+   "name": "XF Select B07/08 B",
+   "rating": 1343,
+   "games": 3
+  },
+  {
+   "id": "fcf559dc-fe5c-45dc-a195-928969dcc68b",
+   "name": "PacNW SC B07/08 Blue B",
+   "rating": 1249,
+   "games": 6
+  }
+ ],
+ "boys-2008": [
+  {
+   "id": "5d767344-f129-4657-b786-ab4f83760246",
+   "name": "Eastside FC B08/09 ECNL RL",
+   "rating": 1981,
+   "games": 15
+  },
+  {
+   "id": "21101ea6-e317-448e-b04d-3cc2bf3b1b1f",
+   "name": "PacNW SC B08/09 ECNL",
+   "rating": 1944,
+   "games": 5
+  },
+  {
+   "id": "985a6032-f136-4957-b7c1-fe15046d9ee1",
+   "name": "Eastside FC B08/09 ECNL",
+   "rating": 1908,
+   "games": 7
+  },
+  {
+   "id": "e6dadeb7-d28d-4fd9-b53e-06683824024f",
+   "name": "WPFC B08/09 ECNL",
+   "rating": 1856,
+   "games": 4
+  },
+  {
+   "id": "031ee8df-4013-4999-abe3-13f3f84a5cce",
+   "name": "Seattle United B08 Samba",
+   "rating": 1847,
+   "games": 6
+  },
+  {
+   "id": "b3580a94-dcac-4c2b-965f-73eeeae05c1d",
+   "name": "PacNW SC B08/09 ECNL RL",
+   "rating": 1772,
+   "games": 5
+  },
+  {
+   "id": "2e5487bc-0c6d-42ca-b8d0-462fae6e2dfd",
+   "name": "WPFC B08/09 ECNL RL",
+   "rating": 1756,
+   "games": 11
+  },
+  {
+   "id": "4248926b-d5a6-4a27-89d5-fbae1ce917d9",
+   "name": "XF B08/09 ECNL RL",
+   "rating": 1723,
+   "games": 14
+  },
+  {
+   "id": "b9334aa9-4125-475e-9277-0e4026d1a920",
+   "name": "Seattle United B08 Tango",
+   "rating": 1689,
+   "games": 4
+  },
+  {
+   "id": "0e40db27-8054-4558-b78f-f5c3b3dc636f",
+   "name": "Valor Soccer B08/09 ECNL RL",
+   "rating": 1646,
+   "games": 3
+  },
+  {
+   "id": "a2ce7299-febc-4264-acba-7d54013395c1",
+   "name": "Atletico Futbol Club B08 EA Lobos",
+   "rating": 1634,
+   "games": 3
+  },
+  {
+   "id": "09374523-3d3b-4632-bf1b-7b1eebc95189",
+   "name": "XF Select B08/09 A",
+   "rating": 1587,
+   "games": 4
+  },
+  {
+   "id": "b469e793-093e-4d4f-b6c7-8ba133e64a3c",
+   "name": "Seattle United B08/09 Copa",
+   "rating": 1548,
+   "games": 3
+  },
+  {
+   "id": "aac64572-1d15-4ad5-8f4f-8089343ac464",
+   "name": "Mt. Rainier FC Academy B08/09 2",
+   "rating": 1453,
+   "games": 6
+  },
+  {
+   "id": "a2392cb5-f1de-4822-aac3-e4c469a0c2e5",
+   "name": "Seattle Celtic B08 White",
+   "rating": 1435,
+   "games": 4
+  }
+ ],
+ "boys-2009": [
+  {
+   "id": "09c5b6bd-8320-4c14-b233-8e92c428012c",
+   "name": "Seattle United B09/10 ECNL RL",
+   "rating": 2054,
+   "games": 11
+  },
+  {
+   "id": "857eb146-d817-4ecd-9a50-68fbe9c209e7",
+   "name": "XF B09/10 ECNL 1",
+   "rating": 2047,
+   "games": 8
+  },
+  {
+   "id": "5a455280-35ec-4c16-946b-4dceaa12e309",
+   "name": "XF B09/10 ECNL 2",
+   "rating": 2025,
+   "games": 17
+  },
+  {
+   "id": "631d86c1-737c-44e1-931c-ce935c53ab81",
+   "name": "Eastside FC B09/10 ECNL",
+   "rating": 2006,
+   "games": 13
+  },
+  {
+   "id": "b1d161ff-ca6d-4fc0-8f35-9b21eded618c",
+   "name": "Wenatchee FA B09/10 ECNL RL Black",
+   "rating": 1948,
+   "games": 9
+  },
+  {
+   "id": "4c0f6e95-e780-4a4b-80a3-75d955d6c153",
+   "name": "WPFC B09/10 ECNL RL",
+   "rating": 1941,
+   "games": 13
+  },
+  {
+   "id": "eb37e0ac-15d4-47ae-9748-4ad9a8a2d5b2",
+   "name": "WW Surf B09/10 MLS Next",
+   "rating": 1887,
+   "games": 12
+  },
+  {
+   "id": "6e9c657a-f88f-4bd6-82b4-344889fabd77",
+   "name": "WPFC B09/10 ECNL",
+   "rating": 1859,
+   "games": 4
+  },
+  {
+   "id": "f81bcf77-d2fa-4cbb-a82d-c848761d1839",
+   "name": "Atletico Futbol Club B09/10 MLS Next",
+   "rating": 1822,
+   "games": 8
+  },
+  {
+   "id": "1269a39b-43ab-4702-afab-e6285b31df9b",
+   "name": "Seattle Celtic B09/10 MLS Next 2",
+   "rating": 1820,
+   "games": 12
+  },
+  {
+   "id": "f51c486b-1ee5-4000-ac3d-919f436f3be1",
+   "name": "Seattle United B09 Tango",
+   "rating": 1808,
+   "games": 9
+  },
+  {
+   "id": "3cf71d9e-db13-4d07-a2a2-670b3490e8ad",
+   "name": "Eastside FC B09/10 ECNL RL",
+   "rating": 1777,
+   "games": 12
+  },
+  {
+   "id": "e7e276f1-7345-4c33-9632-24e93cf15572",
+   "name": "Seattle United B09/10 ECNL",
+   "rating": 1775,
+   "games": 4
+  },
+  {
+   "id": "92980534-4c02-4f11-91bc-9bb551ebe171",
+   "name": "Seattle Celtic B09/10 MLS Next",
+   "rating": 1762,
+   "games": 10
+  },
+  {
+   "id": "939d550a-baea-4b4a-bf15-0ceea423168a",
+   "name": "Snohomish United B09/10 ECNL",
+   "rating": 1752,
+   "games": 9
+  },
+  {
+   "id": "1c173a16-b711-4568-a6c7-077d22b56951",
+   "name": "Mt. Rainier FC B09/10 Academy-1",
+   "rating": 1745,
+   "games": 14
+  },
+  {
+   "id": "69cfc4a7-e618-4366-bfbe-99abd65ee630",
+   "name": "Emerald City FC B09/10 EA",
+   "rating": 1738,
+   "games": 7
+  },
+  {
+   "id": "4f92a979-df6b-4e80-9514-12090f40dabb",
+   "name": "XF B09/10 ECNL RL",
+   "rating": 1732,
+   "games": 15
+  },
+  {
+   "id": "3e281d8d-ff14-4e29-a1a3-c7d9708b70df",
+   "name": "Whatcom FC Rangers B09/10 ECNL RL",
+   "rating": 1723,
+   "games": 8
+  },
+  {
+   "id": "cb49ae65-bea5-4639-8294-d66ca89867dc",
+   "name": "Valor Soccer B09/10 ECNL RL",
+   "rating": 1705,
+   "games": 11
+  },
+  {
+   "id": "b1a0a672-57cf-43b8-8e7c-49aa680fc406",
+   "name": "Kitsap Alliance FC B09/10 Blue",
+   "rating": 1698,
+   "games": 7
+  },
+  {
+   "id": "bbae8633-345a-40a6-bd5c-28165064572a",
+   "name": "Atletico Futbol Club B09/10 Rojo",
+   "rating": 1697,
+   "games": 9
+  },
+  {
+   "id": "57170253-d819-4fa8-a08e-51d83da43b1e",
+   "name": "Seattle Celtic B09/10 EA",
+   "rating": 1681,
+   "games": 8
+  },
+  {
+   "id": "a2837048-44b4-41f9-9a2a-9c69e75949a0",
+   "name": "WW Surf B09/10 EA Blue",
+   "rating": 1680,
+   "games": 4
+  },
+  {
+   "id": "1274144d-d0f8-41b3-8dff-8c700e5efcba",
+   "name": "Sozo FC B09/10 MLS Next",
+   "rating": 1675,
+   "games": 4
+  },
+  {
+   "id": "a3433367-5aaf-46ad-a2f7-6a8e5e590d37",
+   "name": "Atletico Futbol Club B09/10 MLS Next Azul",
+   "rating": 1661,
+   "games": 10
+  },
+  {
+   "id": "b9927d61-b6d4-4f75-b0e3-3276e827316c",
+   "name": "Kitsap Alliance FC B09/10 White",
+   "rating": 1625,
+   "games": 5
+  },
+  {
+   "id": "1f9d69bc-7de1-4c4d-af2e-5a3b5722aeff",
+   "name": "Sparta Tacoma B09/10 Red",
+   "rating": 1625,
+   "games": 11
+  },
+  {
+   "id": "86d0e71c-f895-40ad-b43e-2b90c4fbe42c",
+   "name": "WW Surf B09/10 EA White",
+   "rating": 1616,
+   "games": 5
+  },
+  {
+   "id": "d86627d6-2577-4639-b8ea-e39376de0646",
+   "name": "Washington Rush B09/10 MLS Next",
+   "rating": 1611,
+   "games": 5
+  },
+  {
+   "id": "5639a761-1767-44db-8a33-08c8ab92242f",
+   "name": "Sozo FC B09",
+   "rating": 1607,
+   "games": 3
+  },
+  {
+   "id": "cb46c4ab-46a8-464e-b865-a2a5f905ba05",
+   "name": "WPFC B09 White B",
+   "rating": 1594,
+   "games": 8
+  },
+  {
+   "id": "dcc35221-f6e1-4748-aab8-06a20ca156d8",
+   "name": "Washington East Surf Soccer Club B09/10 MLS Next",
+   "rating": 1586,
+   "games": 11
+  },
+  {
+   "id": "e2f1bbb8-a86a-4bbf-b1f9-2b7bec7197ed",
+   "name": "Mt. Rainier FC Academy B09/10 2",
+   "rating": 1580,
+   "games": 4
+  },
+  {
+   "id": "0d0f905a-c987-4dcd-a611-6b26fb415846",
+   "name": "Eastside FC West B09/10 Red",
+   "rating": 1562,
+   "games": 8
+  },
+  {
+   "id": "5414720b-7adf-4d1c-ba3d-4ce3f61fcbb0",
+   "name": "Harbor Soccer Club B09/10",
+   "rating": 1558,
+   "games": 7
+  },
+  {
+   "id": "62536fac-c22b-478c-956f-ecfd7794da90",
+   "name": "PacNW SC B09/10 Maroon",
+   "rating": 1553,
+   "games": 8
+  },
+  {
+   "id": "50f4178e-ed95-49c8-93e7-599379d41d77",
+   "name": "PacNW SC B09/10 ECNL RL",
+   "rating": 1550,
+   "games": 10
+  },
+  {
+   "id": "f43c06c0-c884-4717-a4a9-949f5329ee5d",
+   "name": "PacNW SC B09/10 Blue B",
+   "rating": 1530,
+   "games": 6
+  },
+  {
+   "id": "f4834eff-f79f-45de-9148-3e2063271b4c",
+   "name": "Washington Rush B09/10 RCL",
+   "rating": 1523,
+   "games": 9
+  },
+  {
+   "id": "ba333ad3-54a2-4f4b-839a-efad124aea94",
+   "name": "WPFC B09 Black",
+   "rating": 1519,
+   "games": 10
+  },
+  {
+   "id": "6c894921-4e42-4070-be06-49aa812c1e72",
+   "name": "Seattle United B09/10 Blue",
+   "rating": 1495,
+   "games": 4
+  },
+  {
+   "id": "a6860177-f8e3-4745-ab35-3050f707c699",
+   "name": "Seattle United B09 Copa",
+   "rating": 1490,
+   "games": 4
+  },
+  {
+   "id": "5e9f9d80-6050-4d13-bb95-ca0be8bbdc57",
+   "name": "Wenatchee FA B09/10 Red",
+   "rating": 1427,
+   "games": 3
+  },
+  {
+   "id": "5994249f-f8a6-4b06-a808-19c27b718177",
+   "name": "Sparta Tacoma B09/10 White",
+   "rating": 1424,
+   "games": 8
+  },
+  {
+   "id": "02f3a4c3-3b75-42ee-8252-d9ba9990b4ae",
+   "name": "XF Select B09/10 B Caufield",
+   "rating": 1423,
+   "games": 7
+  },
+  {
+   "id": "4921176f-e3da-466e-b030-1506065f1ef1",
+   "name": "Atletico Futbol Club B09/10 LOBOS",
+   "rating": 1401,
+   "games": 3
+  },
+  {
+   "id": "405e53b4-0941-4dd8-bf79-9dea9dba1fa4",
+   "name": "Washington Rush Select B09/10",
+   "rating": 1393,
+   "games": 3
+  },
+  {
+   "id": "c45db830-9a60-4206-858e-6362ba42cb9f",
+   "name": "Mukilteo Youth Soccer Club B09/10 Navy",
+   "rating": 1387,
+   "games": 3
+  },
+  {
+   "id": "4f62cb48-468d-4b4f-9e06-49db8ecaddc2",
+   "name": "PacNW SC B09/10 White C",
+   "rating": 1382,
+   "games": 7
+  }
+ ],
+ "boys-2010": [
+  {
+   "id": "286092e7-4a53-488f-aea7-0bf3fbdd55dc",
+   "name": "PacNW SC B10/11 ECNL",
+   "rating": 2101,
+   "games": 5
+  },
+  {
+   "id": "8bc93b7f-dd84-4c9d-9034-f1e741f155c1",
+   "name": "XF B10/11 ECNL 1",
+   "rating": 2049,
+   "games": 14
+  },
+  {
+   "id": "7948f23c-595a-430e-9217-8a7d7bc19d60",
+   "name": "Eastside FC B10/11 ECNL RL",
+   "rating": 2031,
+   "games": 13
+  },
+  {
+   "id": "9bfd3084-ed88-4dcf-9c21-b1047831d829",
+   "name": "Seattle Celtic B10/11 MLS Next",
+   "rating": 2027,
+   "games": 12
+  },
+  {
+   "id": "2ccd598d-973f-4492-9bc2-197b4943cc44",
+   "name": "Eastside FC B10/11 ECNL",
+   "rating": 1927,
+   "games": 8
+  },
+  {
+   "id": "dd6f37ba-f349-4355-ba27-e2701c537047",
+   "name": "Atletico Futbol Club B10/11 MLS Next",
+   "rating": 1923,
+   "games": 9
+  },
+  {
+   "id": "39780ee1-0d0d-435d-a382-da2fbebadc0f",
+   "name": "XF B10/11 ECNL 2",
+   "rating": 1920,
+   "games": 15
+  },
+  {
+   "id": "e32a700a-8357-4418-bb9b-34407359c514",
+   "name": "WPFC B10/11 ECNL",
+   "rating": 1888,
+   "games": 11
+  },
+  {
+   "id": "6db13c4f-a0df-492a-b742-2a057f964375",
+   "name": "XF B10/11 ECNL RL",
+   "rating": 1819,
+   "games": 14
+  },
+  {
+   "id": "d292a5e9-3f8f-4a37-9d7c-ef2522e64760",
+   "name": "Atletico Futbol Club B10/11 MLS Next Azul",
+   "rating": 1815,
+   "games": 5
+  },
+  {
+   "id": "a90b7a3f-3846-4ca6-94cf-cf7b20ea4183",
+   "name": "Washington Rush B10/11 MLS Next MLSN",
+   "rating": 1812,
+   "games": 7
+  },
+  {
+   "id": "2f9613a4-7bb0-4caa-a40a-60c6b7c8026a",
+   "name": "Seattle United B10/11 ECNL",
+   "rating": 1796,
+   "games": 4
+  },
+  {
+   "id": "211431a0-a043-4df1-9373-66abcee07612",
+   "name": "WW Surf B10/11 MLS Next",
+   "rating": 1796,
+   "games": 12
+  },
+  {
+   "id": "c671cead-d5a0-49a7-831f-9205dc8ad991",
+   "name": "Washington East Surf Soccer Club B10/11 MLS Next",
+   "rating": 1792,
+   "games": 5
+  },
+  {
+   "id": "1847527a-1050-4f7d-90b4-693de040c39b",
+   "name": "Washington Rush B10/11 RCL 1",
+   "rating": 1763,
+   "games": 9
+  },
+  {
+   "id": "999ca9c4-6659-4b6f-a4ab-0ad6c14c5fb5",
+   "name": "XF Select B10/11 A",
+   "rating": 1744,
+   "games": 10
+  },
+  {
+   "id": "d5ea5cbe-c86d-474f-8af2-74e8e6ccdea6",
+   "name": "Seattle United B10/11 ECNL RL",
+   "rating": 1734,
+   "games": 8
+  },
+  {
+   "id": "5f899cd3-fa26-429a-b419-57b599152a6c",
+   "name": "WW Surf B10/11 EA Blue",
+   "rating": 1720,
+   "games": 5
+  },
+  {
+   "id": "41a36baa-5cf7-431e-a43f-600c1964c6d2",
+   "name": "Snohomish United B10/11 ECNL",
+   "rating": 1718,
+   "games": 7
+  },
+  {
+   "id": "e76984c2-cd57-453d-a454-f460fc37db53",
+   "name": "PacNW SC B10/11 ECNL RL",
+   "rating": 1714,
+   "games": 8
+  },
+  {
+   "id": "036ae3d5-ab83-47d3-8331-70dc87640dcc",
+   "name": "BVB International Academy Washington B10/11 Elite Academy",
+   "rating": 1688,
+   "games": 8
+  },
+  {
+   "id": "71b8b139-7e4d-46f8-b265-6abcd29074f8",
+   "name": "WPFC B10/11 ECNL RL",
+   "rating": 1686,
+   "games": 7
+  },
+  {
+   "id": "c31986a7-ee65-41fa-9f4d-56ca06dddaf3",
+   "name": "Sozo FC B10/11 MLS Next",
+   "rating": 1677,
+   "games": 4
+  },
+  {
+   "id": "e5a0c6de-aea9-446f-b837-9e2548ccd18a",
+   "name": "Valencia CF Academy B10/11 Seattle",
+   "rating": 1661,
+   "games": 5
+  },
+  {
+   "id": "6aa86abe-74ea-4d78-9ab7-1f506e36a631",
+   "name": "Wenatchee FA B10/11 ECNL RL Black",
+   "rating": 1653,
+   "games": 7
+  },
+  {
+   "id": "219ed837-981a-488f-befc-4c66c38a109e",
+   "name": "Valor Soccer B10/11 ECNL RL",
+   "rating": 1651,
+   "games": 11
+  },
+  {
+   "id": "551e7f71-ea68-4bb9-8f95-c12a518baa34",
+   "name": "Sparta Tacoma B10/11 Red",
+   "rating": 1647,
+   "games": 6
+  },
+  {
+   "id": "02c15133-7d8b-4e96-b905-2cc558a62f66",
+   "name": "Emerald City FC B10/11 EA",
+   "rating": 1644,
+   "games": 6
+  },
+  {
+   "id": "7f9bdd9b-0b66-40a7-aa0f-f4ad74416278",
+   "name": "Seattle Celtic B10/11 EA",
+   "rating": 1638,
+   "games": 15
+  },
+  {
+   "id": "6a7f703d-6fc3-4016-89fd-d4894fce39e6",
+   "name": "Whatcom FC Rangers B10/11 ECNL RL",
+   "rating": 1623,
+   "games": 8
+  },
+  {
+   "id": "4f85d139-5d94-4ce5-a514-5d871d7c7de3",
+   "name": "Highline Premier FC B10/11 EA",
+   "rating": 1619,
+   "games": 4
+  },
+  {
+   "id": "22b578fe-7583-4c33-a37f-86573c09ed08",
+   "name": "Highline Premier FC Select B10/11 (SA) A Bonaci",
+   "rating": 1600,
+   "games": 11
+  },
+  {
+   "id": "6517d4cd-a349-4af1-b36d-6600f130df66",
+   "name": "Seattle Celtic B10/11 MLS Next 2",
+   "rating": 1594,
+   "games": 7
+  },
+  {
+   "id": "ffe31f96-c819-4e9e-86c9-3fcce5607a23",
+   "name": "Harbor Soccer Club B10/11",
+   "rating": 1572,
+   "games": 3
+  },
+  {
+   "id": "2912f959-4cf7-471a-bbff-9c7b7ce60652",
+   "name": "Seattle United B10/11 Copa",
+   "rating": 1569,
+   "games": 9
+  },
+  {
+   "id": "6561e8de-3194-410d-b394-29ef594b8772",
+   "name": "PacNW SC B10/11 Blue B",
+   "rating": 1561,
+   "games": 8
+  },
+  {
+   "id": "29c3d650-91d4-41a5-a788-34f6e82bcff2",
+   "name": "Mt. Rainier FC B10/11 Academy-1",
+   "rating": 1560,
+   "games": 7
+  },
+  {
+   "id": "35739bb6-f404-4a9a-b5f5-07ceb0da08b2",
+   "name": "XF Select B10/11 B Cruz",
+   "rating": 1557,
+   "games": 8
+  },
+  {
+   "id": "dc001661-3651-4c2d-ab24-6717fb3804ac",
+   "name": "WPFC B10 White B",
+   "rating": 1551,
+   "games": 4
+  },
+  {
+   "id": "6baa55d3-9e12-4d52-b011-ba1eef1b6c15",
+   "name": "PacNW SC B10/11 Maroon",
+   "rating": 1505,
+   "games": 7
+  },
+  {
+   "id": "d58e3c98-b565-4d07-a18d-7d0ff93d315e",
+   "name": "Sparta Tacoma B10/11 White",
+   "rating": 1475,
+   "games": 4
+  },
+  {
+   "id": "713f1ce9-12d8-4a10-93d7-342447e3f90a",
+   "name": "BVB International Academy Washington Eastside B10/11 NPL/WPL",
+   "rating": 1474,
+   "games": 3
+  },
+  {
+   "id": "020dfdec-3c3c-4176-8785-aad99fdfea08",
+   "name": "Wenatchee FA B10/11 Red",
+   "rating": 1452,
+   "games": 6
+  },
+  {
+   "id": "b36b2999-f253-4871-b4f6-d60b2155e5fb",
+   "name": "Mt. Rainier FC Academy B10 2",
+   "rating": 1448,
+   "games": 7
+  },
+  {
+   "id": "6695776c-e580-4297-becd-4214ca4806ed",
+   "name": "Eastside FC B10/11 Red",
+   "rating": 1447,
+   "games": 7
+  },
+  {
+   "id": "751694d2-531d-4cb4-9d6a-93faf702b0a3",
+   "name": "WPFC B10/11 Black",
+   "rating": 1436,
+   "games": 3
+  },
+  {
+   "id": "dd863a43-87f3-49d9-9b30-694ffcf62112",
+   "name": "WW Surf B10/11 NPL 1",
+   "rating": 1434,
+   "games": 7
+  },
+  {
+   "id": "5512ca4c-42b6-4e1d-b310-c26a84d6c4cb",
+   "name": "Eastside FC West B10/11 Red",
+   "rating": 1431,
+   "games": 3
+  },
+  {
+   "id": "94cd7e94-b585-4e82-8aa3-576a6b5ec639",
+   "name": "Valor Soccer Premier B10/11 Gold",
+   "rating": 1430,
+   "games": 7
+  },
+  {
+   "id": "fab68da4-8b75-4b43-8ffb-a3fe14a1cc76",
+   "name": "Kitsap Alliance FC B10/11 Blue",
+   "rating": 1426,
+   "games": 3
+  }
+ ],
+ "boys-2011": [
+  {
+   "id": "d8628e2a-f6ed-49d7-b625-96c783829c8a",
+   "name": "Seattle United B11/12 ECNL RL",
+   "rating": 2195,
+   "games": 10
+  },
+  {
+   "id": "5e52b7ce-aad9-4cfb-a458-769e3d96bea7",
+   "name": "XF B11/12 ECNL 1",
+   "rating": 2110,
+   "games": 10
+  },
+  {
+   "id": "f0a53ce4-d936-4290-a996-c2b55a601b42",
+   "name": "Eastside FC B11/12 ECNL",
+   "rating": 1936,
+   "games": 8
+  },
+  {
+   "id": "e338f8d0-ed92-445e-a49b-f8ea20886e5b",
+   "name": "WPFC B11/12 ECNL",
+   "rating": 1933,
+   "games": 8
+  },
+  {
+   "id": "5e152f33-97f3-4b70-9fd1-391fda36b15b",
+   "name": "Sozo FC B11/12 MLS Next",
+   "rating": 1872,
+   "games": 11
+  },
+  {
+   "id": "31b82b59-ea4a-4ac3-8506-a8e47f3802e8",
+   "name": "XF B11/12 ECNL 2",
+   "rating": 1822,
+   "games": 16
+  },
+  {
+   "id": "fbe3c04a-9c4a-49a0-a21e-6a98b03ee34b",
+   "name": "BVB International Academy Washington B11/12 Elite Academy",
+   "rating": 1811,
+   "games": 12
+  },
+  {
+   "id": "2a0383d5-8010-42e0-a4f3-b83513b6b527",
+   "name": "Seattle United B11/12 ECNL",
+   "rating": 1797,
+   "games": 4
+  },
+  {
+   "id": "bcf0a62f-cdab-4fa1-a8ec-a2242d5f4aa7",
+   "name": "Seattle Celtic B11/12 MLS Next",
+   "rating": 1787,
+   "games": 11
+  },
+  {
+   "id": "2bc12eed-fa69-47aa-8ffa-5b4f6489ec8e",
+   "name": "Whatcom FC Rangers B11/12 ECNL RL",
+   "rating": 1775,
+   "games": 9
+  },
+  {
+   "id": "551af3b8-ed65-42c7-915a-9981cad16b81",
+   "name": "WPFC B11/12 ECNL RL",
+   "rating": 1773,
+   "games": 13
+  },
+  {
+   "id": "086cab58-86ef-43cb-bcee-b87ca07df33a",
+   "name": "Seattle Celtic B11/12 EA",
+   "rating": 1738,
+   "games": 16
+  },
+  {
+   "id": "5afee100-d56c-4f96-9b23-90ddcf41e42a",
+   "name": "Atletico Futbol Club B11/12 MLS Next Azul",
+   "rating": 1714,
+   "games": 4
+  },
+  {
+   "id": "88d0da39-62c3-4b49-a02b-d5a2f3b5f4ac",
+   "name": "Emerald City FC B11/12 EA",
+   "rating": 1712,
+   "games": 5
+  },
+  {
+   "id": "66762012-4dd0-40f3-b289-2c8c664190b9",
+   "name": "PacNW SC B11/12 ECNL",
+   "rating": 1696,
+   "games": 4
+  },
+  {
+   "id": "3dd76bc0-c915-4d5b-b748-68e11e24ffda",
+   "name": "Eastside FC B11/12 ECNL RL",
+   "rating": 1696,
+   "games": 10
+  },
+  {
+   "id": "239900d5-be10-49d0-81dc-d0872dda1a82",
+   "name": "WW Surf B11/12 MLS Next",
+   "rating": 1689,
+   "games": 8
+  },
+  {
+   "id": "ea31a393-2085-48f0-8a8a-eb3277abd234",
+   "name": "Snohomish United B11/12 ECNL",
+   "rating": 1683,
+   "games": 5
+  },
+  {
+   "id": "d8394d69-c9e2-4b39-a0e7-f7068a86faef",
+   "name": "Seattle Celtic B11/12 MLS Next 2",
+   "rating": 1676,
+   "games": 12
+  },
+  {
+   "id": "6100b843-3e51-49fe-9554-28e7e7e57602",
+   "name": "Sparta Tacoma B11/12 Red",
+   "rating": 1665,
+   "games": 12
+  },
+  {
+   "id": "9f073fe3-eb81-4665-801e-26b644734dcf",
+   "name": "Eastside FC B11/12 Red",
+   "rating": 1664,
+   "games": 11
+  },
+  {
+   "id": "512c6640-b5b8-4c16-a9aa-545901e37925",
+   "name": "Washington East Surf Soccer Club B11/12 MLS Next",
+   "rating": 1650,
+   "games": 7
+  },
+  {
+   "id": "46a2a89a-d47a-4838-bdba-7934a7ec8cff",
+   "name": "Atletico Futbol Club B11/12 MLS Next",
+   "rating": 1638,
+   "games": 4
+  },
+  {
+   "id": "f2d2a54d-68d7-4bc5-8b63-27ace81b6fe8",
+   "name": "Harbor Soccer Club B11/12",
+   "rating": 1637,
+   "games": 4
+  },
+  {
+   "id": "b61c074d-6f93-46bd-a595-46a2d7490a48",
+   "name": "WW Surf Academy B11/12 EA BLUE",
+   "rating": 1626,
+   "games": 5
+  },
+  {
+   "id": "da71d14a-fadb-4a2b-a8dd-37647da7754b",
+   "name": "Mt. Rainier FC B11/12 Academy-1",
+   "rating": 1623,
+   "games": 4
+  },
+  {
+   "id": "ec454023-20a8-40a5-8aa8-c5de8604a861",
+   "name": "PacNW SC B11/12 Maroon",
+   "rating": 1612,
+   "games": 8
+  },
+  {
+   "id": "697c98ad-cedf-42ab-9bcf-c791b0f3aecf",
+   "name": "Dragons FC B11/12 White",
+   "rating": 1607,
+   "games": 11
+  },
+  {
+   "id": "1f355cfb-9f1f-49d5-9e66-a786b11d7e24",
+   "name": "Wenatchee FA B11/12 Red",
+   "rating": 1597,
+   "games": 5
+  },
+  {
+   "id": "ee188b96-de61-43e7-8b41-b541bf89eb70",
+   "name": "Highline Premier FC B11/12 EA",
+   "rating": 1581,
+   "games": 5
+  },
+  {
+   "id": "4f243685-619e-49fc-a796-75261a4f3b61",
+   "name": "PacNW SC B11/12 ECNL RL",
+   "rating": 1578,
+   "games": 7
+  },
+  {
+   "id": "8bb655ce-6eac-45b6-b45e-4436f166869b",
+   "name": "WW Surf Academy B11/12 C",
+   "rating": 1554,
+   "games": 4
+  },
+  {
+   "id": "8d6ac37a-06c3-4d03-afc8-4fc7477b24cb",
+   "name": "PacNW SC B11/12 Blue B",
+   "rating": 1545,
+   "games": 7
+  },
+  {
+   "id": "a4a9d034-7678-480e-928e-f653425ed848",
+   "name": "Valor Soccer B11/12 ECNL RL",
+   "rating": 1544,
+   "games": 5
+  },
+  {
+   "id": "c084637e-6296-4beb-a1e6-912c6a4622e3",
+   "name": "Seattle United B11 Copa",
+   "rating": 1529,
+   "games": 5
+  },
+  {
+   "id": "87ca0fdc-23dc-4f4f-9ad5-1f1be8a8175e",
+   "name": "Seattle Celtic B11 White",
+   "rating": 1527,
+   "games": 11
+  },
+  {
+   "id": "c6e76567-cfc4-477a-a118-16d90b2c24f6",
+   "name": "Mt. Rainier FC Academy B11/12 2",
+   "rating": 1525,
+   "games": 10
+  },
+  {
+   "id": "17886476-0292-46bb-9dd3-c5d05053015a",
+   "name": "Washington Rush B11/12 MLS Next",
+   "rating": 1518,
+   "games": 7
+  },
+  {
+   "id": "54cf9f93-07f8-44b1-98eb-cfa017d4f2b2",
+   "name": "Seattle United B11 Tango",
+   "rating": 1508,
+   "games": 10
+  },
+  {
+   "id": "b19b9dff-9e4b-497c-b61d-e05532eb67a0",
+   "name": "XF B11/12 ECNL RL",
+   "rating": 1503,
+   "games": 11
+  },
+  {
+   "id": "fcc69469-8a0a-4af4-a071-bc41b0233a17",
+   "name": "Seattle United B11 Samba",
+   "rating": 1499,
+   "games": 3
+  },
+  {
+   "id": "8d4202f8-0429-4db9-a04c-1e76eda101a4",
+   "name": "XF Select B11/12 A (Chatta)",
+   "rating": 1497,
+   "games": 8
+  },
+  {
+   "id": "52c4a570-117e-4d3c-b132-2febaec59650",
+   "name": "WPFC B11 White B",
+   "rating": 1486,
+   "games": 4
+  },
+  {
+   "id": "e76a9c79-b6b9-4e73-bdb4-9df223fb07ad",
+   "name": "Kitsap Alliance FC B11/12 Blue",
+   "rating": 1486,
+   "games": 3
+  },
+  {
+   "id": "6c7a5903-0767-4232-863f-964e40584f6a",
+   "name": "Eastside FC West B11/12 Red",
+   "rating": 1477,
+   "games": 8
+  },
+  {
+   "id": "c224751d-b5d8-475a-8637-89f2aa366634",
+   "name": "Eastside FC B11/12 White",
+   "rating": 1470,
+   "games": 3
+  },
+  {
+   "id": "8de90b4c-49d9-450c-8a8d-421a9340b885",
+   "name": "PSSC Cosmos Academy B11",
+   "rating": 1466,
+   "games": 3
+  },
+  {
+   "id": "69521701-7408-4d38-98d9-d2671bdeae70",
+   "name": "Mukilteo Youth Soccer Club B11/12 Navy",
+   "rating": 1449,
+   "games": 4
+  },
+  {
+   "id": "67ba4ad1-4b2e-47d2-bdfd-9cea9d52caaa",
+   "name": "PacNW SC B11/12 White C",
+   "rating": 1448,
+   "games": 7
+  },
+  {
+   "id": "91a283b5-fa68-4e9b-8c8f-78bf3dde164e",
+   "name": "Washington Rush B11/12 Nero",
+   "rating": 1438,
+   "games": 4
+  }
+ ],
+ "boys-2012": [
+  {
+   "id": "096fb1f3-ba42-46b9-9634-a4e2d03e4a2b",
+   "name": "XF B12/13 ECNL 1",
+   "rating": 2026,
+   "games": 12
+  },
+  {
+   "id": "c88e3282-2968-44e8-8450-04a7f1ce1d23",
+   "name": "Seattle United B12/13 ECNL",
+   "rating": 1993,
+   "games": 6
+  },
+  {
+   "id": "f1a86e22-9831-4bb0-bbf1-2253b178c133",
+   "name": "Wenatchee FA B12/13 ECNL RL Black",
+   "rating": 1981,
+   "games": 14
+  },
+  {
+   "id": "1e1e2bbf-9c7c-4743-808b-e62d322825b4",
+   "name": "Eastside FC B12/13 ECNL",
+   "rating": 1978,
+   "games": 7
+  },
+  {
+   "id": "531d177f-4ebe-4a25-836c-419e217d8281",
+   "name": "Seattle Celtic B12/13 MLS Next 2",
+   "rating": 1937,
+   "games": 9
+  },
+  {
+   "id": "3396becd-529c-403a-814f-da0a0effa317",
+   "name": "Seattle Celtic B12/13 MLS Next",
+   "rating": 1882,
+   "games": 11
+  },
+  {
+   "id": "085da723-d0be-4681-af34-dc4149533672",
+   "name": "XF B12/13 ECNL RL",
+   "rating": 1881,
+   "games": 18
+  },
+  {
+   "id": "7f527f27-50f2-4df5-9e25-bb7566fa44b7",
+   "name": "Seattle United B12/13 ECNL RL",
+   "rating": 1852,
+   "games": 7
+  },
+  {
+   "id": "240c13ec-1de7-471a-bb27-7ee9ebfdc369",
+   "name": "WW Surf B12/13 EA Blue",
+   "rating": 1842,
+   "games": 10
+  },
+  {
+   "id": "d4c79a8f-572f-4ef7-adcf-ed48efa0f79f",
+   "name": "PacNW SC B12/13 ECNL",
+   "rating": 1827,
+   "games": 4
+  },
+  {
+   "id": "13bfa319-3f0a-4868-804f-5c0e62ed9ca5",
+   "name": "Washington East Surf Soccer Club B12/13 MLS Next",
+   "rating": 1821,
+   "games": 7
+  },
+  {
+   "id": "7c8f48f5-8383-4488-96e1-0c7d15574246",
+   "name": "Washington Rush B12/13 MLS Next",
+   "rating": 1811,
+   "games": 8
+  },
+  {
+   "id": "baba18af-4311-4531-bf5d-6a2789e5f24a",
+   "name": "Eastside FC B12/13 ECNL RL",
+   "rating": 1800,
+   "games": 14
+  },
+  {
+   "id": "d0a1975b-9f5a-4d2b-8269-b80394b0ffab",
+   "name": "XF B12/13 ECNL 2",
+   "rating": 1788,
+   "games": 16
+  },
+  {
+   "id": "82e6cc48-2bd4-4a1f-b3c4-7dd4821e9ed4",
+   "name": "WW Surf B12/13 MLS",
+   "rating": 1780,
+   "games": 3
+  },
+  {
+   "id": "825024f7-dc55-4870-b19f-178aedc79006",
+   "name": "Seattle United B12 Copa",
+   "rating": 1770,
+   "games": 8
+  },
+  {
+   "id": "86db07ef-3cc4-48b6-a33b-49d6b2916f18",
+   "name": "WPFC B12/13 ECNL",
+   "rating": 1749,
+   "games": 8
+  },
+  {
+   "id": "a9ba7cb3-7c43-44ca-8e34-ec8f0c008f3b",
+   "name": "Atletico Futbol Club B12/13 MLS Next",
+   "rating": 1747,
+   "games": 5
+  },
+  {
+   "id": "60d84942-5341-4ddc-a472-a00264be5032",
+   "name": "Whatcom FC Rangers B12/13 ECNL RL",
+   "rating": 1725,
+   "games": 6
+  },
+  {
+   "id": "46391e54-6aaf-4473-98d1-e1f67a75f0fb",
+   "name": "Lake Washington Premier FC B12/13 White Arapaimas",
+   "rating": 1703,
+   "games": 10
+  },
+  {
+   "id": "5c7b9be9-dbc0-4b78-8b2d-a2c82c17c90c",
+   "name": "Sozo FC B12/13 MLS Next",
+   "rating": 1695,
+   "games": 4
+  },
+  {
+   "id": "6a3a412e-8201-41db-9d61-e64ac8c08254",
+   "name": "Snohomish United B12/13 ECNL",
+   "rating": 1692,
+   "games": 5
+  },
+  {
+   "id": "ec51cf0b-97c5-4ff6-9cba-759e0c5b8aaf",
+   "name": "Mt. Rainier FC Academy B12 I",
+   "rating": 1683,
+   "games": 11
+  },
+  {
+   "id": "88923398-017c-492b-93de-f55bb257d68b",
+   "name": "WW Surf B12/13 EA White",
+   "rating": 1671,
+   "games": 4
+  },
+  {
+   "id": "d99532b9-48ac-4bf4-af71-d5f8838c3062",
+   "name": "Harbor Soccer Club B12/13",
+   "rating": 1667,
+   "games": 8
+  },
+  {
+   "id": "24579f39-a9e8-4926-b688-c7282bb00069",
+   "name": "Highline Premier FC B12/13 EA",
+   "rating": 1650,
+   "games": 11
+  },
+  {
+   "id": "e6e789e4-4829-4b22-93be-75e1e77cf328",
+   "name": "Seattle Celtic B12/13 EA",
+   "rating": 1647,
+   "games": 9
+  },
+  {
+   "id": "3284e86d-a9b5-4b75-a4ed-f251b5233a7e",
+   "name": "PacNW SC B12/13 ECNL RL",
+   "rating": 1643,
+   "games": 8
+  },
+  {
+   "id": "78dc5174-5361-4d17-a8d1-888822076276",
+   "name": "Seattle United B12 Tango",
+   "rating": 1631,
+   "games": 11
+  },
+  {
+   "id": "c9185bc8-3234-4551-a9d1-9e3e56aa8c21",
+   "name": "PacNW SC B12/13 Maroon",
+   "rating": 1630,
+   "games": 10
+  },
+  {
+   "id": "83d93092-3f0c-40e1-9d7b-67e12ee7936b",
+   "name": "Emerald City FC B12/13 EA",
+   "rating": 1624,
+   "games": 5
+  },
+  {
+   "id": "209b0232-1721-47b0-96ce-7faa0a0dd367",
+   "name": "Atletico Futbol Club B12 Santa Rosa Sao Paulo",
+   "rating": 1618,
+   "games": 3
+  },
+  {
+   "id": "1c12952c-c7d9-4f9a-8445-3e1e33ad98fe",
+   "name": "Valencia CF Academy B12/13 Seattle",
+   "rating": 1618,
+   "games": 4
+  },
+  {
+   "id": "a454b621-8c5c-4b40-8e46-dc0c831ca23f",
+   "name": "WPFC B12/13 ECNL RL",
+   "rating": 1616,
+   "games": 10
+  },
+  {
+   "id": "30846641-6fd2-4c30-b4e9-62362ef45bf0",
+   "name": "XF Select B12/13 Doleac",
+   "rating": 1599,
+   "games": 8
+  },
+  {
+   "id": "356b7ef0-de5a-45bf-981e-a2a917ef9ce5",
+   "name": "WPFC B12 Black",
+   "rating": 1597,
+   "games": 4
+  },
+  {
+   "id": "84159d13-c975-461e-948f-29f3e7f65ec4",
+   "name": "BVB International Academy Washington B12/13 Elite Academy",
+   "rating": 1592,
+   "games": 7
+  },
+  {
+   "id": "93653c73-3176-4182-a793-67f2766be7d4",
+   "name": "PSSC Cosmos Academy B12",
+   "rating": 1589,
+   "games": 7
+  },
+  {
+   "id": "7db81add-8ac0-43fc-98f1-d76a01b7d22a",
+   "name": "WW Surf North Premier B12/13",
+   "rating": 1571,
+   "games": 5
+  },
+  {
+   "id": "912e26ea-6202-4fb6-8e06-0997866ae7ad",
+   "name": "Sparta Tacoma B12/13 Red",
+   "rating": 1560,
+   "games": 8
+  },
+  {
+   "id": "3cb95e80-377d-4807-b85f-9625113e11c0",
+   "name": "PacNW SC B12/13 Blue B",
+   "rating": 1550,
+   "games": 8
+  },
+  {
+   "id": "0de3c549-2060-4f36-99b3-75259249faa4",
+   "name": "Atletico Futbol Club B12/13 Lobos",
+   "rating": 1543,
+   "games": 5
+  },
+  {
+   "id": "c6d4bd93-6e3b-4f24-8051-34e4c2c1e845",
+   "name": "PacNW SC B12/13 White C",
+   "rating": 1529,
+   "games": 7
+  },
+  {
+   "id": "6b490805-6403-4460-a945-dc10bed13ee4",
+   "name": "Valor Soccer B12/13 ECNL RL",
+   "rating": 1525,
+   "games": 5
+  },
+  {
+   "id": "0e50d557-881a-4dfe-8a4d-a88459450e91",
+   "name": "Washington Rush B12/13 RCL 1",
+   "rating": 1524,
+   "games": 4
+  },
+  {
+   "id": "918dafb4-7bb5-4ee9-a269-032a46eaf18d",
+   "name": "Seattle Celtic B12 Orange",
+   "rating": 1523,
+   "games": 5
+  },
+  {
+   "id": "76d4fdd3-fc3c-47f4-87f6-5f1d4ae906eb",
+   "name": "Washington Rush B12/13 Nero",
+   "rating": 1512,
+   "games": 4
+  },
+  {
+   "id": "599388cf-6e0d-492e-a398-8e095592828c",
+   "name": "Eastside FC B12/13 Red",
+   "rating": 1506,
+   "games": 6
+  },
+  {
+   "id": "990b023c-0023-46f2-9053-d7d5b602f659",
+   "name": "Wenatchee FA B12/13 Grey",
+   "rating": 1498,
+   "games": 4
+  },
+  {
+   "id": "3ed5fa29-f62d-4cc2-a870-3a16fe2e968b",
+   "name": "Washington Rush Select B12/13",
+   "rating": 1479,
+   "games": 7
+  }
+ ],
+ "boys-2013": [
+  {
+   "id": "719cf3fc-705d-4a3f-b9db-47de9ee34440",
+   "name": "Seattle United B13/14 ECNL",
+   "rating": 2394,
+   "games": 11
+  },
+  {
+   "id": "e21498d8-4336-4f1f-accb-76223b3d0ae0",
+   "name": "XF B13/14 ECNL 1",
+   "rating": 2099,
+   "games": 18
+  },
+  {
+   "id": "86b5e35d-68fb-428c-92fb-03087922fd53",
+   "name": "Washington East Surf Soccer Club B13/14 MLS Next",
+   "rating": 2021,
+   "games": 8
+  },
+  {
+   "id": "95d8473a-40c7-4063-879f-0cd83381d9f2",
+   "name": "Seattle United B13/14 ECNL RL",
+   "rating": 1978,
+   "games": 9
+  },
+  {
+   "id": "9af310d9-c3a3-438b-812f-a2a6660e65df",
+   "name": "Snohomish United B13/14 ECNL",
+   "rating": 1967,
+   "games": 8
+  },
+  {
+   "id": "83a99053-ad52-4a12-b731-f5f3895dd482",
+   "name": "Eastside FC B13/14 ECNL",
+   "rating": 1945,
+   "games": 7
+  },
+  {
+   "id": "8bfcda44-8532-46dd-9484-584e1174bbe8",
+   "name": "XF B13/14 ECNL 2",
+   "rating": 1925,
+   "games": 17
+  },
+  {
+   "id": "b30a386a-dbc7-491b-a130-39e6d8c10dda",
+   "name": "PSSC Cosmos B13/14 Acadamy",
+   "rating": 1907,
+   "games": 15
+  },
+  {
+   "id": "91a0e9d9-ee76-4cce-9cb6-1d348d714b91",
+   "name": "WPFC B13/14 ECNL",
+   "rating": 1904,
+   "games": 9
+  },
+  {
+   "id": "3c324e6a-961c-4d95-83d8-ac352c409d06",
+   "name": "PacNW SC B13/14 ECNL",
+   "rating": 1853,
+   "games": 4
+  },
+  {
+   "id": "3b8f7050-f4bd-4384-9a92-7ad6e0827035",
+   "name": "Washington Rush B13/14 MLS Next",
+   "rating": 1806,
+   "games": 5
+  },
+  {
+   "id": "3514d03a-65df-4cbe-82cb-3a00fd083c0c",
+   "name": "WPFC B13/14 ECNL RL",
+   "rating": 1805,
+   "games": 12
+  },
+  {
+   "id": "59160a2e-92d7-4b75-9862-4cd6a85bd694",
+   "name": "WW Surf B13/14 MLS Next",
+   "rating": 1791,
+   "games": 8
+  },
+  {
+   "id": "f3988e93-82ff-4ddd-b9ed-58f41816d1b9",
+   "name": "Wenatchee FA B13/14 ECNL RL Black",
+   "rating": 1768,
+   "games": 6
+  },
+  {
+   "id": "200f804b-0f8c-4dea-aa7c-e45afa15eb91",
+   "name": "WW Surf B13/14 EA Blue",
+   "rating": 1765,
+   "games": 10
+  },
+  {
+   "id": "42cef65b-9741-4da6-bf06-6d71ad33c64b",
+   "name": "Seattle United B13/14 Copa",
+   "rating": 1762,
+   "games": 12
+  },
+  {
+   "id": "26dcf3f2-3c07-4f5e-b26f-5b1b68ff6be5",
+   "name": "Eastside FC West B13/14 Red Bellevue",
+   "rating": 1756,
+   "games": 9
+  },
+  {
+   "id": "a8854f16-f4fd-4de6-9d7c-c810f5a54142",
+   "name": "Seattle Celtic B13/14 MLS Next",
+   "rating": 1739,
+   "games": 14
+  },
+  {
+   "id": "59bf57bb-cc44-4d6c-be26-7bcd2f3ea93a",
+   "name": "Sparta Tacoma B13/14",
+   "rating": 1725,
+   "games": 5
+  },
+  {
+   "id": "8f032815-8bdf-4911-8c91-ab4f7734d476",
+   "name": "Atletico Futbol Club B13/14 MLS Next",
+   "rating": 1724,
+   "games": 4
+  },
+  {
+   "id": "c760b01c-3093-4eab-ad14-bb338237795b",
+   "name": "Seattle Celtic B13/14 MLS Next 2",
+   "rating": 1723,
+   "games": 13
+  },
+  {
+   "id": "9c5a055f-7ae4-4815-b476-0929467a7b74",
+   "name": "Sozo FC B13/14 MLS Next",
+   "rating": 1716,
+   "games": 4
+  },
+  {
+   "id": "6118ffbf-6ada-47a2-892f-663708a8fad8",
+   "name": "Valencia CF Academy B13/14 Seattle",
+   "rating": 1716,
+   "games": 5
+  },
+  {
+   "id": "ef28494e-7878-4605-92ef-638c7a49e68d",
+   "name": "Atletico Futbol Club B13/14 MLS Next Azul",
+   "rating": 1712,
+   "games": 8
+  },
+  {
+   "id": "6fb76e64-3a64-4d04-968a-a8a1ef8a0685",
+   "name": "PacNW SC B13/14 ECNL RL",
+   "rating": 1662,
+   "games": 8
+  },
+  {
+   "id": "c8bbd1d1-ffb6-421e-85cc-bfcbdd0f1bd6",
+   "name": "Harbor Soccer Club B13/14",
+   "rating": 1653,
+   "games": 7
+  },
+  {
+   "id": "8997fcf7-3c0b-4162-b6a2-1aa8ee850778",
+   "name": "Highline Premier FC B13/14 EA",
+   "rating": 1647,
+   "games": 9
+  },
+  {
+   "id": "aa6e501e-3c00-4e7e-aeed-e3049457d195",
+   "name": "WW Surf North Premier B13/14 Blue A",
+   "rating": 1630,
+   "games": 12
+  },
+  {
+   "id": "8d972dc3-9271-480c-819b-401da06d8c94",
+   "name": "Pumas Seattle B13",
+   "rating": 1630,
+   "games": 7
+  },
+  {
+   "id": "6935ee8e-8e9d-4b74-bc62-5b94834fe46f",
+   "name": "Eastside FC B13/14 ECNL RL",
+   "rating": 1629,
+   "games": 10
+  },
+  {
+   "id": "eb7fdfec-de3e-4416-b40b-7e7f993cbea3",
+   "name": "Whatcom FC Rangers B13/14 ECNL RL",
+   "rating": 1624,
+   "games": 5
+  },
+  {
+   "id": "b068912b-2577-4f8b-b8c0-2fd9941132cd",
+   "name": "Washington Rush B13/14 RCL 1",
+   "rating": 1622,
+   "games": 8
+  },
+  {
+   "id": "cf62cfc0-89a1-4421-b925-d8b9e03d1b6f",
+   "name": "Seattle Celtic B13/14 EA",
+   "rating": 1618,
+   "games": 15
+  },
+  {
+   "id": "6c5c5fdc-f284-4618-ba34-4a450237035c",
+   "name": "Dragons FC B13/14 White",
+   "rating": 1618,
+   "games": 11
+  },
+  {
+   "id": "f9a54028-7f71-4630-a06b-01084617d348",
+   "name": "Dragons FC B13/14 Red",
+   "rating": 1606,
+   "games": 8
+  },
+  {
+   "id": "6314aefd-62f7-4ddc-a3ff-6b8a75a435ec",
+   "name": "BVB International Academy Washington B13/14 Elite Academy",
+   "rating": 1605,
+   "games": 7
+  },
+  {
+   "id": "0fbbb54f-4249-4147-b027-16b95a50ac9f",
+   "name": "Mt. Rainier FC B13/14 Academy-1",
+   "rating": 1603,
+   "games": 4
+  },
+  {
+   "id": "3582c6c5-4d29-4975-8fe4-61c44cefd28e",
+   "name": "Seattle United B13 Tango",
+   "rating": 1571,
+   "games": 7
+  },
+  {
+   "id": "7b688d91-4c15-44ee-8bae-2f6e68848b9f",
+   "name": "Eastside FC West B13/14 Maroon",
+   "rating": 1557,
+   "games": 11
+  },
+  {
+   "id": "8b74ffd1-215f-490c-9a8a-feb158157815",
+   "name": "WW Surf B13/14 EA White",
+   "rating": 1543,
+   "games": 4
+  },
+  {
+   "id": "b79a82be-4e40-477e-8b7f-c5fcb6a706c9",
+   "name": "Seattle United South B13 Blue",
+   "rating": 1528,
+   "games": 4
+  },
+  {
+   "id": "25bcee96-c280-4c9d-b8c5-ae73352f7391",
+   "name": "Mt. Rainier FC Academy B13/14 2",
+   "rating": 1525,
+   "games": 8
+  },
+  {
+   "id": "608479e1-52ab-427d-a881-022285a3cf2e",
+   "name": "Eastside FC B13/14 White",
+   "rating": 1520,
+   "games": 8
+  },
+  {
+   "id": "0f02cd3d-d50e-4e15-a440-18044dfafba1",
+   "name": "Valor Soccer B13/14 ECNL RL",
+   "rating": 1510,
+   "games": 8
+  },
+  {
+   "id": "89130a0d-927e-44f3-830c-2bba8558b968",
+   "name": "Emerald City FC B13/14 EA",
+   "rating": 1500,
+   "games": 8
+  },
+  {
+   "id": "2aef7034-e323-42fc-a6ee-083710eff483",
+   "name": "Puget Sound Soccer Club PSSC Cosmos FC B2013/14 White",
+   "rating": 1490,
+   "games": 4
+  },
+  {
+   "id": "584f39d8-1c28-4ecf-ba81-71ff3df80980",
+   "name": "Whatcom FC Rangers Select B13/14 County",
+   "rating": 1475,
+   "games": 4
+  },
+  {
+   "id": "8f42a83f-7967-4fca-a8a4-c0788690ab27",
+   "name": "XF B13/14 RCL 1",
+   "rating": 1471,
+   "games": 15
+  },
+  {
+   "id": "70ddda31-cd80-4a94-b002-a569a9522b11",
+   "name": "BVB International Academy Washington Eastside B13/14 NPL/WPL",
+   "rating": 1470,
+   "games": 6
+  },
+  {
+   "id": "d70762dd-8482-4170-b7bb-5bacb40db238",
+   "name": "Lake Washington Premier FC B13/14 White Sharks",
+   "rating": 1464,
+   "games": 4
+  }
+ ],
+ "boys-2014": [
+  {
+   "id": "63d270c6-7e8e-4921-9b28-55fd1de65dca",
+   "name": "XF B14/15 Pre-ECNL 1",
+   "rating": 2048,
+   "games": 15
+  },
+  {
+   "id": "96f9f85c-92b9-4144-8021-5bf0df89362b",
+   "name": "Eastside FC B14/15 Pre-ECNL 2",
+   "rating": 1951,
+   "games": 11
+  },
+  {
+   "id": "0ca396cd-d98b-4f6e-90d3-a817edd89b3e",
+   "name": "Eastside FC B14/15 Pre-ECNL 1",
+   "rating": 1932,
+   "games": 10
+  },
+  {
+   "id": "8ee2d26a-0cb4-497c-8ee1-c6b5864a38c8",
+   "name": "WW Surf Central B14/15 Pre-MLS Next",
+   "rating": 1916,
+   "games": 9
+  },
+  {
+   "id": "101914fe-66ae-4563-98bb-64da082a7a24",
+   "name": "XF B14/15 RCL 1",
+   "rating": 1910,
+   "games": 19
+  },
+  {
+   "id": "ba78b844-87ba-4d31-a81f-1fa0f8d57f40",
+   "name": "Eastside FC West B14/15 Red",
+   "rating": 1875,
+   "games": 10
+  },
+  {
+   "id": "1a9d7a5d-5897-46f5-b445-c99f2dae3938",
+   "name": "Seattle United B14/15 Pre-ECNL",
+   "rating": 1862,
+   "games": 7
+  },
+  {
+   "id": "4d3b872a-8bcf-4669-9168-64fbea0952f6",
+   "name": "WPFC B14/15 Pre-ECNL",
+   "rating": 1860,
+   "games": 10
+  },
+  {
+   "id": "a8400216-41ae-41ab-a099-05ab87de2360",
+   "name": "Washington East Surf Soccer Club B14/15 Pre-MLS Next Brown",
+   "rating": 1829,
+   "games": 4
+  },
+  {
+   "id": "63becde4-6fc8-453f-ba22-bff4a0293e30",
+   "name": "Mt. Rainier FC B14/15 Academy-1",
+   "rating": 1809,
+   "games": 11
+  },
+  {
+   "id": "dc8b41bf-8b29-4569-8e97-71288e961b5b",
+   "name": "Kitsap Alliance FC B14/15 Pre-ECNL",
+   "rating": 1806,
+   "games": 10
+  },
+  {
+   "id": "dfae25a5-4d1e-44e6-b6d0-a7d021321314",
+   "name": "Seattle Celtic B14/15 Pre-EA",
+   "rating": 1798,
+   "games": 20
+  },
+  {
+   "id": "d0c33b7f-1c16-4488-9115-acedcc70b8f0",
+   "name": "XF B14/15 Pre-ECNL 2",
+   "rating": 1781,
+   "games": 17
+  },
+  {
+   "id": "b3fa4041-2036-406d-a962-24db35fde83a",
+   "name": "Emerald City FC B14/15 Pre-ECNL Salinas Marinez",
+   "rating": 1771,
+   "games": 3
+  },
+  {
+   "id": "b75e7340-449a-4159-a9c2-67125627288c",
+   "name": "Sparta Tacoma B14/15 Red",
+   "rating": 1768,
+   "games": 11
+  },
+  {
+   "id": "d8ad6aca-62c2-4b73-824b-fd301533132f",
+   "name": "Seattle United B14/15 Pre-ECNL Copa",
+   "rating": 1754,
+   "games": 10
+  },
+  {
+   "id": "e826a76e-43a6-4fe4-830b-1eaefc015c02",
+   "name": "Atletico Futbol Club B14/15 Pre-MLS Next ORO",
+   "rating": 1738,
+   "games": 4
+  },
+  {
+   "id": "bb569244-2f91-4876-aa3b-89cf2bd9aa38",
+   "name": "Warriors B14/15 EA",
+   "rating": 1735,
+   "games": 11
+  },
+  {
+   "id": "8f57df33-42ac-428b-88ab-d35de401278a",
+   "name": "PacNW SC B14/15 Maroon A",
+   "rating": 1722,
+   "games": 6
+  },
+  {
+   "id": "f9c7c950-33c1-4575-9390-55663e6a2230",
+   "name": "Harbor Soccer Club B14/15",
+   "rating": 1709,
+   "games": 10
+  },
+  {
+   "id": "36d66225-761d-4d20-bf19-e91c19e637f6",
+   "name": "Eastside FC B14/15 Red",
+   "rating": 1705,
+   "games": 13
+  },
+  {
+   "id": "6369763e-fa3a-46a4-8a62-a4332aa906a7",
+   "name": "WW Surf South Academy B14/15 A",
+   "rating": 1698,
+   "games": 9
+  },
+  {
+   "id": "6e8eb788-4674-4005-bf01-5a23434b552f",
+   "name": "Western WA Surf Academy B14/15 Blue",
+   "rating": 1696,
+   "games": 7
+  },
+  {
+   "id": "9d5c7684-dc66-4177-9ddb-2e5a339cd4d8",
+   "name": "WW Surf Central Academy B14/15 A",
+   "rating": 1695,
+   "games": 3
+  },
+  {
+   "id": "f3070ace-549e-4813-9d22-8ffde73c1e99",
+   "name": "Valor Soccer B14/15 Pre-ECNL",
+   "rating": 1675,
+   "games": 7
+  },
+  {
+   "id": "10864e61-dd12-4560-b841-febe47de4c4e",
+   "name": "Lake Washington Premier FC B14/15 White Piranhas",
+   "rating": 1671,
+   "games": 13
+  },
+  {
+   "id": "f5d99fb7-e793-4727-96c5-66e88ac0d7c4",
+   "name": "Seattle United B14/15 Samba",
+   "rating": 1669,
+   "games": 8
+  },
+  {
+   "id": "6cd72b7d-71d5-4a6e-b329-d3baf3cb674c",
+   "name": "Seattle United B14 Tango",
+   "rating": 1661,
+   "games": 9
+  },
+  {
+   "id": "67db6da7-92c7-48e4-96c9-34f104f96cc1",
+   "name": "Highline Premier FC B14/15 Heat",
+   "rating": 1648,
+   "games": 7
+  },
+  {
+   "id": "465a990f-651f-4015-9b43-757506692667",
+   "name": "BVB International Academy Washington B14/15 Elite Academy",
+   "rating": 1629,
+   "games": 4
+  },
+  {
+   "id": "4b57e9b0-581f-471d-bb33-83598614851e",
+   "name": "Seattle Celtic B14/15 Pre-MLS Next",
+   "rating": 1617,
+   "games": 6
+  },
+  {
+   "id": "27bd15dc-3c6b-4ef6-9ab6-83e7dd661759",
+   "name": "Snohomish United B14/15 Pre-ECNL",
+   "rating": 1605,
+   "games": 4
+  },
+  {
+   "id": "98c8cdff-6d1d-45cb-a8dd-0d7c50676d35",
+   "name": "Mukilteo Youth Soccer Club B14/15 A The Wolfpack",
+   "rating": 1595,
+   "games": 8
+  },
+  {
+   "id": "7d1f1be6-8fde-4ba3-ae07-71cc85a59529",
+   "name": "United Sports FC B14/15 Red",
+   "rating": 1571,
+   "games": 9
+  },
+  {
+   "id": "40aebe35-8d07-4469-8bd3-42ebcc499e20",
+   "name": "XF B14/15 RCL 2",
+   "rating": 1569,
+   "games": 15
+  },
+  {
+   "id": "cd102495-9e45-44a9-b482-9e2292c6042d",
+   "name": "PacNW SC B14/15 Blue B",
+   "rating": 1558,
+   "games": 8
+  },
+  {
+   "id": "9c5c6e8b-10cc-48c6-9f57-609b0d58b21c",
+   "name": "Kitsap Alliance FC B14/15 White",
+   "rating": 1557,
+   "games": 5
+  },
+  {
+   "id": "66072602-0204-4b34-bdb1-7a2f2e35f3da",
+   "name": "WW Surf Select B14/15",
+   "rating": 1553,
+   "games": 4
+  },
+  {
+   "id": "4c4bb2c7-438c-433c-8109-3662914d97a3",
+   "name": "WW Surf North Academy B14/15 A",
+   "rating": 1527,
+   "games": 8
+  },
+  {
+   "id": "65d69f87-25bf-4433-975c-888770cfa697",
+   "name": "Sparta Tacoma B14/15 White",
+   "rating": 1525,
+   "games": 5
+  },
+  {
+   "id": "4221a635-19ca-4f23-981e-eecebc0b573f",
+   "name": "XF Select B14/15 A Coach Ham",
+   "rating": 1507,
+   "games": 4
+  },
+  {
+   "id": "5a721c83-3f70-469f-8fa3-229475abe9cb",
+   "name": "PacNW SC B14/15 White C",
+   "rating": 1506,
+   "games": 3
+  },
+  {
+   "id": "09afb489-7bce-44fb-a0df-537afb04845b",
+   "name": "United Sports FC B14/15 Navy",
+   "rating": 1505,
+   "games": 17
+  },
+  {
+   "id": "5b63d636-9410-4d0d-b4a0-ac9ebfa71ea7",
+   "name": "Seattle Celtic B14 Green",
+   "rating": 1505,
+   "games": 9
+  },
+  {
+   "id": "fb87084a-7bd7-4a14-8fa0-543e92617bfe",
+   "name": "Eastside FC B14/15 White",
+   "rating": 1503,
+   "games": 4
+  },
+  {
+   "id": "e90d4f2e-42ec-47cd-aff8-31e68b1e8206",
+   "name": "Whatcom FC Rangers B14/15 Blue",
+   "rating": 1502,
+   "games": 4
+  },
+  {
+   "id": "dc677e51-db2e-4398-8b48-4d5061db3fc6",
+   "name": "WW Surf Central Academy B14/15 B",
+   "rating": 1498,
+   "games": 8
+  },
+  {
+   "id": "dfa83fd9-1ed9-4be6-98b4-566984c307e4",
+   "name": "WPFC B14 Black A",
+   "rating": 1497,
+   "games": 9
+  },
+  {
+   "id": "5835ecfb-69f8-4db3-b3eb-efac424052e3",
+   "name": "Wenatchee FA B14/15 Black",
+   "rating": 1493,
+   "games": 10
+  },
+  {
+   "id": "a1dec577-32e6-42fe-9740-8ebe45eb1052",
+   "name": "Seattle United South B14 Blue",
+   "rating": 1491,
+   "games": 4
+  }
+ ],
+ "boys-2015": [
+  {
+   "id": "ae73285c-174a-44e8-85cd-bbc77b91f27b",
+   "name": "XF B15/16 Pre-ECNL 1",
+   "rating": 2325,
+   "games": 15
+  },
+  {
+   "id": "aa5b511c-e7cf-4f06-89cb-174b633a21b0",
+   "name": "Washington East Surf Soccer Club B15/16 Pre-MLS Next Brown",
+   "rating": 2034,
+   "games": 4
+  },
+  {
+   "id": "30a56fcf-660c-4c9f-9835-6bb41d89ba06",
+   "name": "Seattle Celtic B15/16 Pre-MLS",
+   "rating": 1994,
+   "games": 19
+  },
+  {
+   "id": "982f9182-9ddb-47e0-95ec-8a9fa72adaf9",
+   "name": "Eastside FC B15/16 Pre-ECNL 1",
+   "rating": 1957,
+   "games": 8
+  },
+  {
+   "id": "c5a3ee4d-767d-48cf-b288-f2406d07a73e",
+   "name": "WPFC B15/16 Pre-ECNL",
+   "rating": 1953,
+   "games": 12
+  },
+  {
+   "id": "c2cdd5ee-df83-43f7-9fd5-21517b8ad6d7",
+   "name": "Seattle United B15/16 Pre-ECNL Copa",
+   "rating": 1874,
+   "games": 13
+  },
+  {
+   "id": "2ef1b5a6-6015-4d52-9e35-60c7654eac7c",
+   "name": "XF B15/16 Pre-ECNL 2",
+   "rating": 1861,
+   "games": 17
+  },
+  {
+   "id": "b664c134-69d8-42f4-aaeb-5d1c83847348",
+   "name": "Atletico Futbol Club B15/16 Pre-MLS Next Oro",
+   "rating": 1843,
+   "games": 4
+  },
+  {
+   "id": "3003dd12-7147-4135-9d26-7624c88c1a61",
+   "name": "Seattle United B15/16 Pre-ECNL",
+   "rating": 1828,
+   "games": 8
+  },
+  {
+   "id": "36ce29ce-646e-4509-9144-15dc23e17586",
+   "name": "Eastside FC West B15/16 Red",
+   "rating": 1827,
+   "games": 5
+  },
+  {
+   "id": "3f82dd79-0ced-4fae-a2c4-0717ba64c290",
+   "name": "Dragons FC B15 Red",
+   "rating": 1810,
+   "games": 20
+  },
+  {
+   "id": "21921481-cd3c-496f-9609-690359f63ea9",
+   "name": "Washington Rush B15/16 Pre MLS Next",
+   "rating": 1763,
+   "games": 4
+  },
+  {
+   "id": "c07a658f-2695-4457-bbe0-7c48b2fe0b92",
+   "name": "PacNW SC B15/16 Pre-ECNL",
+   "rating": 1752,
+   "games": 8
+  },
+  {
+   "id": "50b8d9fd-b8ed-4a52-be0d-ae5c8b255a9e",
+   "name": "Highline Premier FC B15/16 EA Heat",
+   "rating": 1727,
+   "games": 10
+  },
+  {
+   "id": "0e3bd55f-1b59-4d72-862a-9ede28e9dec4",
+   "name": "Warriors B15/16 EA",
+   "rating": 1720,
+   "games": 4
+  },
+  {
+   "id": "f22f0630-2081-4d25-aeb7-72f3dfd16e01",
+   "name": "Atletico Futbol Club B15/16 Pre-MLS Azul",
+   "rating": 1709,
+   "games": 7
+  },
+  {
+   "id": "1ac5d781-f971-4a7c-9d5f-5dbcdf6ad923",
+   "name": "Sparta Tacoma B15/16 Red",
+   "rating": 1679,
+   "games": 9
+  },
+  {
+   "id": "a9f81d14-436f-4b84-9627-f90426667043",
+   "name": "WW Surf Central B15/16 Pre-MLS Next",
+   "rating": 1679,
+   "games": 4
+  },
+  {
+   "id": "f6ed1447-2eda-4e94-b46d-ccf940541468",
+   "name": "Harbor Soccer Club B15/16",
+   "rating": 1666,
+   "games": 9
+  },
+  {
+   "id": "a48453de-9b79-410c-9960-6ce1de4938fd",
+   "name": "United Sports FC B15/16 Navy",
+   "rating": 1660,
+   "games": 6
+  },
+  {
+   "id": "94b564f7-c26b-4e06-8ba0-12f70f2d1338",
+   "name": "Seattle Celtic B15/16 Green Pre-EA",
+   "rating": 1655,
+   "games": 15
+  },
+  {
+   "id": "4752c867-7d62-41b4-83f2-8028f964303a",
+   "name": "WPFC B15 Black",
+   "rating": 1639,
+   "games": 10
+  },
+  {
+   "id": "b82261c7-dc34-4bc7-8c14-522b3bbefd51",
+   "name": "Wenatchee FA B15/16 Black",
+   "rating": 1636,
+   "games": 9
+  },
+  {
+   "id": "0d65697a-ae49-48a6-97e5-772108f68c2c",
+   "name": "WW Surf B15/16 Blue Surf Academy",
+   "rating": 1635,
+   "games": 4
+  },
+  {
+   "id": "e8a51836-4278-4919-8949-39c9520760de",
+   "name": "BVB International Academy Washington B15/16 Elite Academy",
+   "rating": 1633,
+   "games": 7
+  },
+  {
+   "id": "9e3c119f-8580-4ba8-95d4-7b86cd0aee6c",
+   "name": "Mt. Rainier FC B15/16 Academy-1",
+   "rating": 1633,
+   "games": 13
+  },
+  {
+   "id": "b39ee5ff-b4df-4e1f-8ce4-70cf5593f52e",
+   "name": "Rayados Soccer Academy Northwest B15/16 NW",
+   "rating": 1621,
+   "games": 4
+  },
+  {
+   "id": "425b5b83-7fcf-48da-af9e-73172a0db361",
+   "name": "Snohomish United B15/16 Pre-ECNL",
+   "rating": 1620,
+   "games": 7
+  },
+  {
+   "id": "8f4e5682-c465-4109-8ac8-074f0d747141",
+   "name": "XF Select B15/16 A Hernandez",
+   "rating": 1617,
+   "games": 12
+  },
+  {
+   "id": "389ba856-ed48-432e-8757-8e1bc92dc3e6",
+   "name": "Valor Soccer B15/16 Pre-ECNL",
+   "rating": 1616,
+   "games": 7
+  },
+  {
+   "id": "e69ccf0c-0001-4600-b6c3-a3af49608d42",
+   "name": "Kitsap Alliance FC B15/16 Blue",
+   "rating": 1609,
+   "games": 5
+  },
+  {
+   "id": "28dacaa1-d5f8-4045-bcc3-6264625b020e",
+   "name": "Eastside FC B15/16 Pre-ECNL 2",
+   "rating": 1605,
+   "games": 10
+  },
+  {
+   "id": "8c2fd503-47e3-4543-a833-ff6f33c4097a",
+   "name": "Mukilteo Youth Soccer Club B15/16 Navy",
+   "rating": 1597,
+   "games": 8
+  },
+  {
+   "id": "1283bb31-363e-41f9-bee6-c6083c96e0a1",
+   "name": "Pumas Seattle B15/16 UNAM Filial Seattle Felipe",
+   "rating": 1588,
+   "games": 4
+  },
+  {
+   "id": "7d72f377-5bfd-4689-b1cb-0206d66446b4",
+   "name": "XF B15/16 RCL 1",
+   "rating": 1577,
+   "games": 15
+  },
+  {
+   "id": "941cd7e5-b8d7-4b7d-867f-00911bc500a8",
+   "name": "Seattle United Shoreline Select B15/16 White",
+   "rating": 1576,
+   "games": 4
+  },
+  {
+   "id": "ba25b626-8220-48eb-8bae-a6090a362eda",
+   "name": "WPFC B15 White B",
+   "rating": 1574,
+   "games": 6
+  },
+  {
+   "id": "33c266e8-a24c-4e4b-abc5-d309a0076b36",
+   "name": "Emerald City FC B15/16 Green",
+   "rating": 1556,
+   "games": 7
+  },
+  {
+   "id": "b5c96f4f-239c-4064-a07c-6fe9c5b02b04",
+   "name": "WW Surf Central Academy B15/16 A",
+   "rating": 1553,
+   "games": 4
+  },
+  {
+   "id": "b294b0c0-9ae4-4226-8ff7-2c688b0c3a02",
+   "name": "Seattle Celtic B15 Orange",
+   "rating": 1552,
+   "games": 12
+  },
+  {
+   "id": "cedbfd1f-6e67-4846-83a9-524c803d240e",
+   "name": "Seattle Celtic B15 White",
+   "rating": 1552,
+   "games": 4
+  },
+  {
+   "id": "3c190bf3-da29-4be1-b7cc-d54ef9b0d797",
+   "name": "Seattle United B15 Samba",
+   "rating": 1541,
+   "games": 8
+  },
+  {
+   "id": "760772ee-362d-48d4-8b2f-34f8ce2ecc56",
+   "name": "Harbor Soccer Club Premier B15/16 RCL 1",
+   "rating": 1541,
+   "games": 8
+  },
+  {
+   "id": "78390124-4eb7-40bf-b58c-f056e5ad7ae1",
+   "name": "XF B15/16 RCL 2",
+   "rating": 1540,
+   "games": 13
+  },
+  {
+   "id": "8a205acf-ca90-4a5e-9542-eb381d6705e6",
+   "name": "Seattle United Northwest B15 Blue",
+   "rating": 1539,
+   "games": 4
+  },
+  {
+   "id": "98dfe020-3f1e-4ecb-949a-8554d9e0200b",
+   "name": "Seattle United B15 Tango",
+   "rating": 1525,
+   "games": 4
+  },
+  {
+   "id": "561c52fd-e3d5-44d6-85da-f4100a045545",
+   "name": "Seattle United South B15 Blue",
+   "rating": 1525,
+   "games": 8
+  },
+  {
+   "id": "d561edb2-48b9-4896-aaa1-5e999e639b04",
+   "name": "Kitsap Alliance FC B15/16 White",
+   "rating": 1524,
+   "games": 4
+  },
+  {
+   "id": "7ce43f81-fc43-435c-bf8f-02409d5eb41e",
+   "name": "Rayados Soccer Academy Northwest B15/16 White NW",
+   "rating": 1511,
+   "games": 4
+  },
+  {
+   "id": "223da2b4-444d-440d-888d-22ca9a0acff6",
+   "name": "Eastside FC West B15/16 White",
+   "rating": 1508,
+   "games": 7
+  }
+ ],
+ "boys-2016": [
+  {
+   "id": "a75c0fc1-f8ce-4054-8b11-0e5ddb7a595e",
+   "name": "XF B16/17 RCL 2",
+   "rating": 2307,
+   "games": 18
+  },
+  {
+   "id": "078bb7b2-a88d-4d3a-98c2-531c45d7d119",
+   "name": "Seattle United B16/17 Copa",
+   "rating": 2069,
+   "games": 16
+  },
+  {
+   "id": "a540ab3c-202d-41a6-b77c-5ca3d65db79c",
+   "name": "XF B16/17 RCL 1",
+   "rating": 2060,
+   "games": 19
+  },
+  {
+   "id": "f9c2035d-1be7-4fd5-9975-ee5a88a3075b",
+   "name": "Seattle United B16 Tango",
+   "rating": 1985,
+   "games": 4
+  },
+  {
+   "id": "ba39b4be-9ebe-4001-bf1d-eba686db450d",
+   "name": "Sozo FC B16/17 Gold",
+   "rating": 1955,
+   "games": 5
+  },
+  {
+   "id": "343acf1b-220c-4d9d-9ff6-c728b66a7628",
+   "name": "Warriors B16/17 Blue Attack",
+   "rating": 1930,
+   "games": 5
+  },
+  {
+   "id": "1fee9d0b-cfd0-427e-9e6e-b35b7fbdfa0c",
+   "name": "Harbor Soccer Club Premier B16/17 RCL 1",
+   "rating": 1913,
+   "games": 6
+  },
+  {
+   "id": "479ae346-d71a-43fe-b2cb-d43020e47b85",
+   "name": "WW Surf Central Academy B16/17 A",
+   "rating": 1905,
+   "games": 4
+  },
+  {
+   "id": "10821b79-d24d-4a3d-b7f9-850400890758",
+   "name": "Seattle United B16 Nova",
+   "rating": 1896,
+   "games": 9
+  },
+  {
+   "id": "64c27b19-1ff9-4207-88f2-544d34f18824",
+   "name": "Seattle Celtic B16 Green",
+   "rating": 1887,
+   "games": 11
+  },
+  {
+   "id": "d1783d7d-9a9b-4447-ac0a-2831cbd05517",
+   "name": "XF B16/17 RCL 3",
+   "rating": 1873,
+   "games": 15
+  },
+  {
+   "id": "a1f45edc-c153-48f5-969b-4f34b35ca7b5",
+   "name": "Rayados Soccer Academy Northwest B16/17 NW",
+   "rating": 1865,
+   "games": 6
+  },
+  {
+   "id": "e6795a83-ad5c-4afe-a20c-fa12c9b0445e",
+   "name": "Eastside FC B16/17 Red",
+   "rating": 1827,
+   "games": 11
+  },
+  {
+   "id": "24b6861f-1334-4fe5-a6d7-25e555091ef1",
+   "name": "WW Surf South Academy B16/17 A",
+   "rating": 1786,
+   "games": 6
+  },
+  {
+   "id": "b615f653-c1b5-4d59-9684-79c8c1be1cb8",
+   "name": "Lake Washington Premier FC B16/17 White Bichirs",
+   "rating": 1784,
+   "games": 15
+  },
+  {
+   "id": "9cbd141d-dbbe-494c-87f4-46a7959b49a5",
+   "name": "Seattle United B16 Samba",
+   "rating": 1779,
+   "games": 5
+  },
+  {
+   "id": "a4f843cd-55ab-4d4b-90a6-c6d0b06bd122",
+   "name": "Valor Soccer B16/17 Gold",
+   "rating": 1775,
+   "games": 8
+  },
+  {
+   "id": "e876d19e-1666-49dd-aad2-2c4d121d7081",
+   "name": "United Sports FC B16/17 EA Samuel",
+   "rating": 1774,
+   "games": 4
+  },
+  {
+   "id": "49221192-e62b-42af-aae5-acefdd468c48",
+   "name": "WPFC B16 Black A",
+   "rating": 1754,
+   "games": 12
+  },
+  {
+   "id": "326110db-b267-42f4-a5ba-8d0bab876962",
+   "name": "WW Surf Central Academy B16/17 B",
+   "rating": 1730,
+   "games": 5
+  },
+  {
+   "id": "142fa53c-027e-45b6-a62e-4de4c04bc063",
+   "name": "Washington Rush B16/17",
+   "rating": 1725,
+   "games": 4
+  },
+  {
+   "id": "5ed56f99-76a7-4ca8-9be2-a2ead85428d1",
+   "name": "Seattle Celtic B16 White",
+   "rating": 1717,
+   "games": 15
+  },
+  {
+   "id": "ddade074-4ea3-46e5-9cf7-2c4b1109151f",
+   "name": "XF B16/17 RCL 4",
+   "rating": 1706,
+   "games": 17
+  },
+  {
+   "id": "63f93664-ef77-4ab5-b99a-d6bdfce42360",
+   "name": "Highline Premier FC B16/17 RCL Blue",
+   "rating": 1700,
+   "games": 11
+  },
+  {
+   "id": "1cf00ddf-fdb2-4dd8-bcc3-0128ef154c58",
+   "name": "Eastside FC West B16/17 Maroon",
+   "rating": 1689,
+   "games": 9
+  },
+  {
+   "id": "f79a4c1c-a553-4e28-85d2-4b917fa6a51c",
+   "name": "Washington East Surf Soccer Club B16/17 Pre-MLS Next White",
+   "rating": 1688,
+   "games": 3
+  },
+  {
+   "id": "14cfcb52-feef-4ef7-a7df-4b73a3222dd1",
+   "name": "PacNW SC B16/17 Blue B",
+   "rating": 1684,
+   "games": 7
+  },
+  {
+   "id": "d719c7e6-c0bf-409a-9667-fc734a6c9eff",
+   "name": "Eastside FC B16/17 White",
+   "rating": 1683,
+   "games": 12
+  },
+  {
+   "id": "e743eb07-52c5-4f8e-b17b-57e4c6f84a0e",
+   "name": "Harbor Soccer Club Premier B16/17 RCL 2",
+   "rating": 1673,
+   "games": 4
+  },
+  {
+   "id": "e573c740-9c92-4e5e-bd8f-734f0b94ca25",
+   "name": "WW Surf North Academy B16/17 A",
+   "rating": 1665,
+   "games": 3
+  },
+  {
+   "id": "6d7690dc-47ea-4177-b419-008a7c93889c",
+   "name": "Sparta Tacoma B16/17 Red",
+   "rating": 1662,
+   "games": 4
+  },
+  {
+   "id": "967e1d5a-1cb3-4177-a34d-c6c78848abc6",
+   "name": "Eastside FC West B16/17 Red",
+   "rating": 1652,
+   "games": 4
+  },
+  {
+   "id": "58864fdb-c3dc-4425-8277-71906231c89c",
+   "name": "PacNW SC B16/17 Maroon A",
+   "rating": 1646,
+   "games": 10
+  },
+  {
+   "id": "41020ddb-4b6f-42a1-b68b-0b1a0199bd79",
+   "name": "Atletico Futbol Club B16/17 Oro",
+   "rating": 1633,
+   "games": 4
+  },
+  {
+   "id": "3f72e80b-73a8-4000-aa3a-431be5d41217",
+   "name": "Seattle Celtic B16 Orange",
+   "rating": 1630,
+   "games": 8
+  },
+  {
+   "id": "585e94e6-532c-4b62-967c-dcb8fc2f45f1",
+   "name": "Eastside FC B16/17 Blue",
+   "rating": 1622,
+   "games": 4
+  },
+  {
+   "id": "e0ffc2e5-8c15-47af-b1f1-0a2fb9871eb5",
+   "name": "Washington East Surf Soccer Club B16/17 Pre-MLS Next Royal",
+   "rating": 1614,
+   "games": 5
+  },
+  {
+   "id": "1e26d6f8-c12c-4700-82ba-236031332e22",
+   "name": "WPFC B16 White B",
+   "rating": 1612,
+   "games": 11
+  },
+  {
+   "id": "02badeb8-dae9-4512-a867-2409c667b4c6",
+   "name": "WPFC B16 Navy C",
+   "rating": 1611,
+   "games": 5
+  },
+  {
+   "id": "f8607da5-d490-4026-adae-a56a089811aa",
+   "name": "Mukilteo Youth Soccer Club B16/17 Navy",
+   "rating": 1607,
+   "games": 5
+  },
+  {
+   "id": "0f0b70e3-6cc2-4f07-b0ba-e282b8c00060",
+   "name": "Valor Soccer B16/17 Black",
+   "rating": 1582,
+   "games": 4
+  },
+  {
+   "id": "390a5b13-451c-44b3-99a2-6ab906078c79",
+   "name": "Emerald City FC Premier B16/17 Green",
+   "rating": 1572,
+   "games": 8
+  },
+  {
+   "id": "a84e0149-296f-42e4-aa1e-5bc3fa22d036",
+   "name": "XF Select B16/17 A Matisz",
+   "rating": 1569,
+   "games": 7
+  },
+  {
+   "id": "ba6fc0e2-3acf-45ce-a6db-95619dbaf51c",
+   "name": "Snohomish United B16/17 Red",
+   "rating": 1569,
+   "games": 8
+  },
+  {
+   "id": "71d0fca2-5783-4eb2-b452-fe211f3811dc",
+   "name": "WW Surf Central Academy B16/17 C",
+   "rating": 1567,
+   "games": 5
+  },
+  {
+   "id": "a08bd801-2944-4af4-8818-79701396b894",
+   "name": "WW Surf Select B16/17",
+   "rating": 1566,
+   "games": 4
+  },
+  {
+   "id": "3cb6dcef-1bf6-43b6-bbad-a1bfabde8773",
+   "name": "XF Select B16/17 C Quadracci",
+   "rating": 1563,
+   "games": 9
+  },
+  {
+   "id": "248be904-e542-452b-b3cf-bf52ec4e4560",
+   "name": "Wenatchee FA B16/17 Black",
+   "rating": 1559,
+   "games": 7
+  },
+  {
+   "id": "d46092ac-25bd-4784-bdea-6e73755ddd59",
+   "name": "Eastside FC West B16/17 White",
+   "rating": 1553,
+   "games": 4
+  },
+  {
+   "id": "f142328a-2735-4d8a-9fbb-779476f9a64e",
+   "name": "Mt. Rainier FC B16/17 Jr. Academy-1",
+   "rating": 1526,
+   "games": 5
+  }
+ ],
+ "boys-2017": [
+  {
+   "id": "8c842db0-5ec0-4baa-a499-e04eeef09fae",
+   "name": "Eastside FC B17/18 Red",
+   "rating": 2280,
+   "games": 13
+  },
+  {
+   "id": "45e00308-7596-4e51-8f7b-c2d099c6e64b",
+   "name": "XF B17/18 RCL 1",
+   "rating": 2155,
+   "games": 16
+  },
+  {
+   "id": "ea7bfadb-49ad-44ed-90bc-9d2a1c55f6a4",
+   "name": "PacNW SC B17/18 Maroon A",
+   "rating": 1994,
+   "games": 12
+  },
+  {
+   "id": "25243680-7597-45e2-bbf7-8f3c37aef5a1",
+   "name": "Seattle United B17 Samba",
+   "rating": 1894,
+   "games": 9
+  },
+  {
+   "id": "85c0997e-7565-4ea4-864a-4bc3c39913a5",
+   "name": "Seattle United B17 Copa",
+   "rating": 1857,
+   "games": 8
+  },
+  {
+   "id": "1da5389c-5608-419b-92b9-642f87aa9814",
+   "name": "Seattle Celtic B17 White",
+   "rating": 1820,
+   "games": 9
+  },
+  {
+   "id": "1ae3fec8-9033-4152-ab55-541d922e0fa5",
+   "name": "WPFC B17 Black A",
+   "rating": 1806,
+   "games": 4
+  },
+  {
+   "id": "a7431bc7-8f00-40e8-90d3-8374c96357f1",
+   "name": "Seattle United B17 Tango",
+   "rating": 1776,
+   "games": 8
+  },
+  {
+   "id": "e54b75b0-8181-4495-909e-8c802c314dc5",
+   "name": "WW Surf Central Academy B17/18 A",
+   "rating": 1766,
+   "games": 5
+  },
+  {
+   "id": "87b8435f-7eef-4d09-a2e9-4d38fdd0ee8a",
+   "name": "XF B17/18 RCL 2",
+   "rating": 1765,
+   "games": 13
+  },
+  {
+   "id": "de4af5fc-ed66-482e-a33c-8e20e4281f4e",
+   "name": "Seattle Celtic B17 Green",
+   "rating": 1756,
+   "games": 9
+  },
+  {
+   "id": "416c3b49-68e6-4cb1-84e0-561b50d4ec38",
+   "name": "Eastside FC West B17/18 Red",
+   "rating": 1753,
+   "games": 8
+  },
+  {
+   "id": "3501c808-e685-4ed0-ac43-436288e95b6e",
+   "name": "WPFC B17 White B",
+   "rating": 1752,
+   "games": 7
+  },
+  {
+   "id": "cbc6c460-5834-4f69-98b0-08ab998fff89",
+   "name": "Lake Washington Premier FC B17/18 White Sharks",
+   "rating": 1733,
+   "games": 12
+  },
+  {
+   "id": "df842c19-88c0-4398-b47d-fb45b59678c5",
+   "name": "XF B17/18 RCL 4",
+   "rating": 1729,
+   "games": 15
+  },
+  {
+   "id": "045209b5-1ad7-4773-97fa-38d10dde853d",
+   "name": "Washington Rush B17/18 Nero",
+   "rating": 1718,
+   "games": 4
+  },
+  {
+   "id": "f9c24886-bcc5-4285-8507-ebd7b099172c",
+   "name": "Highline Premier FC B17/18 RCL Blue",
+   "rating": 1690,
+   "games": 9
+  },
+  {
+   "id": "8aec148d-4ee8-4f92-915f-2f3cfb1cf1f0",
+   "name": "Washington Rush B17/18",
+   "rating": 1680,
+   "games": 3
+  },
+  {
+   "id": "14217275-fcce-45bb-9d44-57c6fe944b03",
+   "name": "Sozo FC B17/18 Gold",
+   "rating": 1674,
+   "games": 3
+  },
+  {
+   "id": "6682665e-60d0-4fb1-94b0-ae997ae2829b",
+   "name": "Harbor Soccer Club Premier B17/18 RCL 1",
+   "rating": 1671,
+   "games": 4
+  },
+  {
+   "id": "bacc3e56-e111-4c0f-a4fe-47abb7a3ae50",
+   "name": "Eastside FC B17/18 Blue",
+   "rating": 1668,
+   "games": 3
+  },
+  {
+   "id": "4b81e258-7acb-4b4c-93fb-f21c23bc1cb6",
+   "name": "WW Surf Central Academy B17/18 B",
+   "rating": 1664,
+   "games": 5
+  },
+  {
+   "id": "bea2d713-ac19-477b-94b1-1bfa94ad2068",
+   "name": "XF Select B17/18 A Matisz",
+   "rating": 1657,
+   "games": 5
+  },
+  {
+   "id": "507328cf-5c2c-4883-b1ad-2c10edad954c",
+   "name": "WW Surf South Academy B17/18 A",
+   "rating": 1654,
+   "games": 4
+  },
+  {
+   "id": "004e9eba-059f-41c4-ab4d-d9f571706716",
+   "name": "Eastside FC B17/18 Grey",
+   "rating": 1652,
+   "games": 5
+  },
+  {
+   "id": "2a75643f-6642-40b7-b442-b3430d3a692e",
+   "name": "Snohomish United B17/18 Black",
+   "rating": 1631,
+   "games": 4
+  },
+  {
+   "id": "6f209a6a-7b86-40dc-ab5c-0d8e5748a5a2",
+   "name": "XF B17/18 RCL 3",
+   "rating": 1625,
+   "games": 17
+  },
+  {
+   "id": "f0de6dca-f18e-4ab7-a25e-e408ab001d92",
+   "name": "Eastside FC B17/18 White",
+   "rating": 1621,
+   "games": 4
+  },
+  {
+   "id": "64e45f5d-d801-4b50-9dde-34a8cddbb096",
+   "name": "WW Surf North Academy B17/18 A",
+   "rating": 1621,
+   "games": 7
+  },
+  {
+   "id": "8299f689-81d9-49ec-8801-96608ae7fb83",
+   "name": "Wenatchee FA B17/18 Black",
+   "rating": 1609,
+   "games": 5
+  },
+  {
+   "id": "5cae3a24-5473-4dfa-81c6-4316b64e0152",
+   "name": "Pumas Seattle B17/18",
+   "rating": 1601,
+   "games": 10
+  },
+  {
+   "id": "516b28d7-1a81-48d0-83b9-c5b3f9754b78",
+   "name": "Atletico Futbol Club B17/18 Oro",
+   "rating": 1597,
+   "games": 11
+  },
+  {
+   "id": "5f215be1-ff59-4a7b-baba-68dc4b9917a7",
+   "name": "WPFC B17 Navy C",
+   "rating": 1579,
+   "games": 5
+  },
+  {
+   "id": "5c986047-3498-43ff-a858-13c5410768fc",
+   "name": "Eastside FC B17/18 Navy",
+   "rating": 1568,
+   "games": 5
+  },
+  {
+   "id": "8f1fa85a-bd71-466a-8a42-1abf5b6b33f4",
+   "name": "Seattle Celtic B17 Gray",
+   "rating": 1562,
+   "games": 6
+  },
+  {
+   "id": "921592ff-d1b9-4672-a08e-9d30817273ac",
+   "name": "Valor Soccer B17/18 Gold",
+   "rating": 1560,
+   "games": 7
+  },
+  {
+   "id": "6890a561-15f9-4cb1-9089-64dab345e30c",
+   "name": "Seattle Celtic B17 Gold",
+   "rating": 1545,
+   "games": 4
+  },
+  {
+   "id": "1be8baed-d140-4a79-bfb5-89a993af4ecc",
+   "name": "Sozo FC B17/18 Royal",
+   "rating": 1541,
+   "games": 4
+  },
+  {
+   "id": "21fdb06c-6f44-421b-9307-a7e4a867c4ce",
+   "name": "Eastside FC West B17/18 Maroon",
+   "rating": 1538,
+   "games": 4
+  },
+  {
+   "id": "6b93b9e0-3764-44f4-b4b1-edfe54e1238e",
+   "name": "Eastside FC West B17/18 White",
+   "rating": 1535,
+   "games": 8
+  },
+  {
+   "id": "d5850758-1bfc-4d6c-9c38-7027c58c25fa",
+   "name": "PacNW SC B17/18 Blue B",
+   "rating": 1531,
+   "games": 7
+  },
+  {
+   "id": "f8170243-3ce2-4104-8d25-e2737890075a",
+   "name": "Snohomish United B17/18 Red",
+   "rating": 1527,
+   "games": 3
+  },
+  {
+   "id": "672cbfcc-e2d3-48e8-a6bf-4f094d15cfc0",
+   "name": "Mt. Rainier FC B17/18 Jr. Academy-1",
+   "rating": 1524,
+   "games": 4
+  },
+  {
+   "id": "af67f544-4297-40c8-aaa3-c0db2675d308",
+   "name": "Valor Soccer B17/18 Black",
+   "rating": 1521,
+   "games": 7
+  },
+  {
+   "id": "2ed56d74-fc52-4e7f-8d79-0d39f31ab86b",
+   "name": "WW Surf Select B17/18",
+   "rating": 1520,
+   "games": 4
+  },
+  {
+   "id": "8cde8519-e8dc-4c9a-b9dd-0d8e3c39ce5e",
+   "name": "WW Surf Central Academy B17/18 C",
+   "rating": 1508,
+   "games": 5
+  },
+  {
+   "id": "9309c64c-7f65-4b40-a879-b2fd94249c38",
+   "name": "United Sports FC B17/18 Navy Redmond",
+   "rating": 1496,
+   "games": 5
+  },
+  {
+   "id": "bdde9868-feb1-4684-9823-e292d006985d",
+   "name": "Kitsap Alliance FC B17/18 Blue",
+   "rating": 1493,
+   "games": 7
+  },
+  {
+   "id": "f3a891ef-3dbf-4659-8120-b03a21f175dc",
+   "name": "WPFC B17 Gold D",
+   "rating": 1475,
+   "games": 4
+  },
+  {
+   "id": "0c14d8b1-1fc0-48d9-bb23-21fb29630f58",
+   "name": "Seattle United South B17 Blue",
+   "rating": 1463,
+   "games": 4
+  }
+ ],
+ "boys-2018": [
+  {
+   "id": "7a76440c-10f0-474f-b820-61f2d1d732ef",
+   "name": "XF B18/19 RCL 1",
+   "rating": 2215,
+   "games": 17
+  },
+  {
+   "id": "13fd21d4-404c-47d7-84ab-a7f20cc6b6c8",
+   "name": "Eastside FC B18/19 Red",
+   "rating": 2101,
+   "games": 8
+  },
+  {
+   "id": "e41d400b-99f6-4333-890e-3ad59d5c3c78",
+   "name": "WPFC B18/19 Black",
+   "rating": 2026,
+   "games": 8
+  },
+  {
+   "id": "4c279ead-1fdc-48d8-9354-5572d62b1d57",
+   "name": "Seattle Celtic B18 Green",
+   "rating": 2001,
+   "games": 9
+  },
+  {
+   "id": "327bba10-b861-462c-9324-2f9633bd1385",
+   "name": "XF B18/19 RCL 2",
+   "rating": 1944,
+   "games": 16
+  },
+  {
+   "id": "ab159da6-27f6-44cf-bee4-243e3b14d38c",
+   "name": "Seattle United B18 Copa",
+   "rating": 1915,
+   "games": 9
+  },
+  {
+   "id": "38322321-30e6-43cd-b557-067df5a189b4",
+   "name": "PacNW SC B18/19 Blue B",
+   "rating": 1867,
+   "games": 8
+  },
+  {
+   "id": "b6ad2090-af99-47db-bef6-b4556cb6fccf",
+   "name": "United Sports FC B18/19 Navy",
+   "rating": 1780,
+   "games": 4
+  },
+  {
+   "id": "cf6c490f-80d5-4d1c-8895-674aadff5c93",
+   "name": "WW Surf Central Academy B18/19 A",
+   "rating": 1780,
+   "games": 4
+  },
+  {
+   "id": "a4c10315-6998-4f32-938a-a1513b156eda",
+   "name": "PacNW SC B18/19 Maroon A",
+   "rating": 1750,
+   "games": 7
+  },
+  {
+   "id": "05eb3124-52d3-41f8-bb40-756d6840e89c",
+   "name": "Valor Soccer Premier B18/19 Gold",
+   "rating": 1720,
+   "games": 8
+  },
+  {
+   "id": "30af3352-0b6b-4b19-bebc-06afa7ee1654",
+   "name": "Eastside FC B18/19 White",
+   "rating": 1699,
+   "games": 5
+  },
+  {
+   "id": "6d08665e-7a08-461a-92ff-571a4bca1fd3",
+   "name": "Seattle United B18/19 Tango",
+   "rating": 1693,
+   "games": 4
+  },
+  {
+   "id": "6541743f-9ac7-465a-b1d6-0314e3576eac",
+   "name": "XF Select B18/19 A Chatta",
+   "rating": 1682,
+   "games": 9
+  },
+  {
+   "id": "96c1af05-1657-4060-8ad1-1b109a588dc0",
+   "name": "WPFC B18 White",
+   "rating": 1631,
+   "games": 8
+  },
+  {
+   "id": "9133252f-69bc-4090-a4d1-2bfd452798a2",
+   "name": "Snohomish United B18/19 Black",
+   "rating": 1628,
+   "games": 4
+  },
+  {
+   "id": "9561fa11-fad5-4a8c-ab66-3a3918c3b6a2",
+   "name": "Eastside FC B20 Red",
+   "rating": 1626,
+   "games": 4
+  },
+  {
+   "id": "23ccfb19-559a-4593-b09e-c5a681c85866",
+   "name": "Mt. Rainier FC B18/19 Jr. Academy-1",
+   "rating": 1575,
+   "games": 6
+  },
+  {
+   "id": "79e83eaf-fb8a-4665-829a-e529e7b291e9",
+   "name": "Seattle Celtic B18 White",
+   "rating": 1572,
+   "games": 4
+  },
+  {
+   "id": "7769b5c6-9c5b-48b2-8caf-1fbd8da4e78d",
+   "name": "XF B18/19 RCL 4",
+   "rating": 1566,
+   "games": 17
+  },
+  {
+   "id": "8e443298-b1b5-4ff3-acff-156b23f0476e",
+   "name": "Seattle United B18 Samba",
+   "rating": 1539,
+   "games": 7
+  },
+  {
+   "id": "c479306b-ab36-44f7-9ff8-c0045fc0f6b0",
+   "name": "XF B18/19 RCL 3",
+   "rating": 1533,
+   "games": 14
+  },
+  {
+   "id": "32edc5fc-0403-4c23-8762-8007c8b0f9fd",
+   "name": "WW Surf Select B18/19",
+   "rating": 1515,
+   "games": 3
+  },
+  {
+   "id": "981561d7-84ec-4ea6-8eb0-9e4ca1b83119",
+   "name": "Washington Rush B18/19 Nero",
+   "rating": 1501,
+   "games": 4
+  },
+  {
+   "id": "c06d2160-c8e9-4171-8611-f8052cce9be8",
+   "name": "Snohomish United B18/19 Red",
+   "rating": 1486,
+   "games": 3
+  },
+  {
+   "id": "40b8f838-1453-4297-99e6-6bf992f83a94",
+   "name": "WW Surf Central Academy B18/19 B",
+   "rating": 1478,
+   "games": 4
+  },
+  {
+   "id": "04533011-5bd1-4397-bd03-bb22c64074be",
+   "name": "Mt. Rainier FC Academy B18/19 Jr 2",
+   "rating": 1469,
+   "games": 4
+  },
+  {
+   "id": "ed0b2223-88db-499e-a560-52f6bab46193",
+   "name": "Eastside FC B18/19 Blue",
+   "rating": 1459,
+   "games": 4
+  },
+  {
+   "id": "5dcf47a1-a759-4ce5-9c5a-702182af0950",
+   "name": "Wenatchee FA B18/19 Black",
+   "rating": 1451,
+   "games": 3
+  },
+  {
+   "id": "3cb5d5c2-7fa7-449c-a3b2-f7b908edeb4f",
+   "name": "WW Surf North Academy B18/19 A",
+   "rating": 1399,
+   "games": 3
+  }
+ ],
+ "boys-2019": [
+  {
+   "id": "2ed24cf6-a69a-4a26-b372-5baa0ae08ce6",
+   "name": "WW Surf North B19/20",
+   "rating": 1535,
+   "games": 3
+  },
+  {
+   "id": "e8938c70-9181-432b-8bb4-b090a04b5c22",
+   "name": "XF B19/20 RCL 1",
+   "rating": 1533,
+   "games": 14
+  },
+  {
+   "id": "af862178-12b8-4009-8245-d30cf773c3af",
+   "name": "WW Surf North Academy B19/20 A",
+   "rating": 1484,
+   "games": 3
+  }
+ ],
+ "girls-2007": [
+  {
+   "id": "f06743f3-ae32-4e1b-917e-ee956407c16a",
+   "name": "Washington Rush G07/08 GA",
+   "rating": 1620,
+   "games": 4
+  },
+  {
+   "id": "31867b32-5ef9-4533-82e2-75f41afbc847",
+   "name": "Whatcom FC Rangers G07/08 ECNL RL",
+   "rating": 1610,
+   "games": 6
+  },
+  {
+   "id": "1f3e7724-200a-4ba5-ba9f-77258f955e42",
+   "name": "Mt. Rainier FC G07/08/09 Academy-1",
+   "rating": 1608,
+   "games": 7
+  },
+  {
+   "id": "788990cf-fe65-4e5a-8f13-d6131131c6bc",
+   "name": "WW Surf Academy G07/08 GA",
+   "rating": 1576,
+   "games": 3
+  },
+  {
+   "id": "81fed009-0b3b-4063-ba2f-f46b72a76167",
+   "name": "Harbor Soccer Club G07/08 GA A Stone",
+   "rating": 1491,
+   "games": 3
+  },
+  {
+   "id": "67be781c-e4f0-4ae9-b73a-fb79ad6c7513",
+   "name": "Washington East Surf Soccer Club G07/08 Pre-GA",
+   "rating": 1465,
+   "games": 6
+  },
+  {
+   "id": "dcf6b2bf-c82d-4075-8781-158af1f54b42",
+   "name": "Washington Rush Select G07/08",
+   "rating": 1372,
+   "games": 3
+  },
+  {
+   "id": "9545d729-547b-4d08-88b2-00d9c269c8e0",
+   "name": "WW Surf North Premier G07/08",
+   "rating": 1367,
+   "games": 3
+  }
+ ],
+ "girls-2008": [
+  {
+   "id": "e71c0a10-977d-4ba5-a04e-98afeb724c1a",
+   "name": "Eastside FC G08/09 ECNL",
+   "rating": 2347,
+   "games": 11
+  },
+  {
+   "id": "db7b1d10-a0ca-4e68-bafc-2339c719391e",
+   "name": "XF G08/09 ECNL",
+   "rating": 2328,
+   "games": 15
+  },
+  {
+   "id": "48dd7a5c-ddcf-40a8-9ecc-f727b251fd98",
+   "name": "WPFC G08/09 ECNL",
+   "rating": 2011,
+   "games": 7
+  },
+  {
+   "id": "5f155bf1-9547-4729-a317-6979ce436ceb",
+   "name": "Eastside FC G08/09 ECNL RL",
+   "rating": 1949,
+   "games": 7
+  },
+  {
+   "id": "a37bcc5c-49fa-40af-bf3e-e67ff1b30d62",
+   "name": "PacNW SC G08/09 ECNL",
+   "rating": 1948,
+   "games": 6
+  },
+  {
+   "id": "94a27d66-dfa6-49c8-b906-7a6d2ba7588a",
+   "name": "Seattle United G08/09 ECNL",
+   "rating": 1911,
+   "games": 4
+  },
+  {
+   "id": "757767e0-0a59-4b82-a820-fbae3fdfffd7",
+   "name": "PacNW SC G08/09 ECNL RL",
+   "rating": 1712,
+   "games": 3
+  },
+  {
+   "id": "b8a4cc4d-82e8-43a6-a0b1-bafbe2dc0696",
+   "name": "WPFC G08/09 ECNL RL",
+   "rating": 1669,
+   "games": 3
+  },
+  {
+   "id": "58c06d2e-5b91-4784-9f36-b2804d016fc4",
+   "name": "XF G08/09 ECNL RL",
+   "rating": 1667,
+   "games": 12
+  },
+  {
+   "id": "030302e5-23e0-4b72-854b-9233f23d2cdf",
+   "name": "Wenatchee FA G08 Chandler",
+   "rating": 1531,
+   "games": 3
+  },
+  {
+   "id": "ef67e585-597c-42d5-ad9f-562c9defcc91",
+   "name": "Seattle United G08 Copa",
+   "rating": 1491,
+   "games": 4
+  },
+  {
+   "id": "669696e9-74e8-4185-830a-eeccad78984c",
+   "name": "Emerald City FC G08/09 Green",
+   "rating": 1469,
+   "games": 4
+  },
+  {
+   "id": "ad407969-481f-4af2-8fe2-27a18b444330",
+   "name": "Valencia CF Academy G08/09 Seattle B",
+   "rating": 1462,
+   "games": 7
+  },
+  {
+   "id": "bf97929b-576b-4266-b709-9dbf0ec6a55d",
+   "name": "Kitsap Alliance FC G08/09 Blue",
+   "rating": 1443,
+   "games": 3
+  },
+  {
+   "id": "3d4212ed-a6f0-4849-b1d4-1a1fe9d4b2c1",
+   "name": "West Sound Soccer Academy G11/10/09/08 19",
+   "rating": 1426,
+   "games": 6
+  },
+  {
+   "id": "f34ebf75-5da3-46d7-8fc2-2606119bf87a",
+   "name": "Valencia CF Academy G08/09 Seattle A",
+   "rating": 1371,
+   "games": 6
+  }
+ ],
+ "girls-2009": [
+  {
+   "id": "e35765b5-7c19-4de3-b2cc-20a87924eb60",
+   "name": "Eastside FC G09/10 ECNL RL",
+   "rating": 2073,
+   "games": 12
+  },
+  {
+   "id": "ec06dd57-c04a-428a-a314-a39106d305be",
+   "name": "WPFC G09/10 ECNL",
+   "rating": 2056,
+   "games": 7
+  },
+  {
+   "id": "4e3b58b3-6a0d-440b-bc56-1ef27623b60f",
+   "name": "XF G09/10 ECNL 1",
+   "rating": 2031,
+   "games": 4
+  },
+  {
+   "id": "9f9ca01e-2d68-4780-a22c-1dbc535de156",
+   "name": "WPFC G09/10 ECNL RL",
+   "rating": 1981,
+   "games": 7
+  },
+  {
+   "id": "44dc0159-046c-483a-87e8-82c892499b29",
+   "name": "XF G09/10 ECNL RL",
+   "rating": 1797,
+   "games": 7
+  },
+  {
+   "id": "83dfdd71-4677-45b8-935b-a6f30e8cb89c",
+   "name": "Seattle United G09/10 ECNL",
+   "rating": 1782,
+   "games": 6
+  },
+  {
+   "id": "452342a8-3084-4e30-878a-5877138cd9cb",
+   "name": "PacNW SC G09/10 ECNL",
+   "rating": 1763,
+   "games": 6
+  },
+  {
+   "id": "02ed2909-c2dd-4f1d-91cb-1f17cb7b8eff",
+   "name": "Valor Soccer G09/10 ECNL RL",
+   "rating": 1735,
+   "games": 14
+  },
+  {
+   "id": "f569e07a-a2e2-45af-a616-cb481c5bf00c",
+   "name": "Eastside FC G09/10 ECNL",
+   "rating": 1726,
+   "games": 3
+  },
+  {
+   "id": "5267203c-ca2e-4f88-b0e5-c6f30347e41c",
+   "name": "XF Select G09/10 A",
+   "rating": 1710,
+   "games": 8
+  },
+  {
+   "id": "29baf88d-d374-4304-8bc2-3ef9e9dad770",
+   "name": "WW Surf Academy G09/10 GA",
+   "rating": 1702,
+   "games": 3
+  },
+  {
+   "id": "e08f7af3-8db0-4a31-93ab-13b1bcfa5000",
+   "name": "Whatcom FC Rangers G09/10 ECNL RL",
+   "rating": 1658,
+   "games": 7
+  },
+  {
+   "id": "4c2e0d17-71a5-4e0a-9998-d95f749cdeb0",
+   "name": "PacNW SC G09/10 ECNL RL",
+   "rating": 1623,
+   "games": 3
+  },
+  {
+   "id": "608ba1ed-1747-4aff-800d-6d2cd9cd5b11",
+   "name": "Washington Rush G09/10 GA",
+   "rating": 1617,
+   "games": 3
+  },
+  {
+   "id": "17e5df90-1b21-477f-9859-4b03008adcc5",
+   "name": "XF G09/10 RCL 1",
+   "rating": 1592,
+   "games": 10
+  },
+  {
+   "id": "5daff2b3-3ed6-4146-a403-5013e338c6ea",
+   "name": "Sozo FC G09/10 Gold",
+   "rating": 1591,
+   "games": 7
+  },
+  {
+   "id": "15287232-eaf6-48e3-bf14-e5bb5116fe29",
+   "name": "WPFC G09 Black",
+   "rating": 1588,
+   "games": 7
+  },
+  {
+   "id": "139f91b4-6b8c-4c36-972b-dd22024a3a46",
+   "name": "WW Surf G09/10 Aspire",
+   "rating": 1553,
+   "games": 6
+  },
+  {
+   "id": "1a8c3378-6904-446f-957a-d28e50236c50",
+   "name": "Wenatchee FA G09/10 Black",
+   "rating": 1470,
+   "games": 9
+  },
+  {
+   "id": "c6cac9e3-db51-4993-8d85-fcbcc2d644e6",
+   "name": "Kitsap Alliance FC G09/10 Blue",
+   "rating": 1420,
+   "games": 3
+  },
+  {
+   "id": "53114310-d209-4276-a563-d12abf4f1f81",
+   "name": "Seattle Celtic G09 Green",
+   "rating": 1412,
+   "games": 7
+  },
+  {
+   "id": "080559a0-8531-405e-9976-b80191c3a713",
+   "name": "Seattle United G09/10 Copa",
+   "rating": 1410,
+   "games": 3
+  },
+  {
+   "id": "18e9076e-2e01-44d6-981f-571988cc5ded",
+   "name": "Seattle United Northwest G09 Blue",
+   "rating": 1400,
+   "games": 3
+  },
+  {
+   "id": "46fbdef3-f147-4ba4-a0df-f34f2693d1d1",
+   "name": "PacNW SC G09/10 Maroon",
+   "rating": 1398,
+   "games": 3
+  },
+  {
+   "id": "b7c80559-034e-4801-982a-c6a2df91d1b3",
+   "name": "Sparta Tacoma G09/10 Red",
+   "rating": 1396,
+   "games": 3
+  },
+  {
+   "id": "55a38b03-29e9-4e5e-a863-7b896b35018c",
+   "name": "Eastside FC G09/10 Red",
+   "rating": 1395,
+   "games": 3
+  },
+  {
+   "id": "0edb2c80-b769-4b58-9d09-e2ac0de1bfd1",
+   "name": "Warriors G09/10 Attack",
+   "rating": 1375,
+   "games": 6
+  },
+  {
+   "id": "3ff397f2-2a1b-4540-9064-8cb9c393a69d",
+   "name": "Lake Washington Premier FC G09/10 White Arowanas",
+   "rating": 1350,
+   "games": 3
+  },
+  {
+   "id": "b4eb156b-b931-4ae0-88e6-9dac76529639",
+   "name": "Whatcom FC Rangers Select G09/10 County",
+   "rating": 1344,
+   "games": 3
+  }
+ ],
+ "girls-2010": [
+  {
+   "id": "d6b5ef70-f231-4c7c-91e9-2ae6be8b314c",
+   "name": "XF G10/11 ECNL 1",
+   "rating": 2192,
+   "games": 11
+  },
+  {
+   "id": "3fd26660-1328-43a2-a3ef-91bd36fb6180",
+   "name": "WPFC G10/11 ECNL",
+   "rating": 2052,
+   "games": 7
+  },
+  {
+   "id": "4be85f97-e9d9-4d7d-8159-f9d3f4399639",
+   "name": "Eastside FC G10/11 ECNL",
+   "rating": 1893,
+   "games": 9
+  },
+  {
+   "id": "317c75f3-3350-4ff2-8a72-edab73cf47d1",
+   "name": "Valor Soccer G10/11 ECNL RL",
+   "rating": 1817,
+   "games": 8
+  },
+  {
+   "id": "48760639-b365-49f6-8bf5-5fed88bc33c0",
+   "name": "PacNW SC G10/11 ECNL",
+   "rating": 1786,
+   "games": 7
+  },
+  {
+   "id": "e9e6e251-d092-4adb-bd27-4cf2aa6c6e63",
+   "name": "Whatcom FC Rangers G10/11 ECNL RL",
+   "rating": 1759,
+   "games": 7
+  },
+  {
+   "id": "29151cb4-d41e-46cc-ac3c-95e7473338f1",
+   "name": "Eastside FC G10/11 ECNL RL",
+   "rating": 1701,
+   "games": 6
+  },
+  {
+   "id": "85f28dc9-0746-4d22-8cb4-9e7df0f195c9",
+   "name": "XF G10/11 ECNL RL",
+   "rating": 1673,
+   "games": 13
+  },
+  {
+   "id": "17d2b4e5-9b17-4e82-b377-adba12d74c83",
+   "name": "Harbor Soccer Club Premier G10/11 Pre-GA",
+   "rating": 1671,
+   "games": 4
+  },
+  {
+   "id": "996b0e95-d55c-4fbc-9caa-7bec5da67d6e",
+   "name": "WW Surf Academy G10/11 GA",
+   "rating": 1650,
+   "games": 3
+  },
+  {
+   "id": "fef114c3-f5d5-48fa-8326-1d0b9acd6a28",
+   "name": "Snohomish United G10/11 ECNL RL",
+   "rating": 1648,
+   "games": 3
+  },
+  {
+   "id": "3ca73675-90ce-42e2-abeb-3521c4872fab",
+   "name": "WPFC G10/11 ECNL RL",
+   "rating": 1644,
+   "games": 6
+  },
+  {
+   "id": "9a50ee58-1722-4b8f-a446-7b770d25b145",
+   "name": "Washington Rush G10/11 GA",
+   "rating": 1624,
+   "games": 3
+  },
+  {
+   "id": "b73d6997-c94d-4b74-992a-2de886518d72",
+   "name": "PacNW SC G10/11 ECNL RL",
+   "rating": 1583,
+   "games": 3
+  },
+  {
+   "id": "8a60ec7b-32c8-4853-bfca-c59a38d48a0f",
+   "name": "Sparta Tacoma G10/11 Red",
+   "rating": 1512,
+   "games": 4
+  },
+  {
+   "id": "47b7c8ba-7f33-40ba-9be4-012e90b03364",
+   "name": "Whatcom FC Rangers G10/11 Blue",
+   "rating": 1509,
+   "games": 3
+  },
+  {
+   "id": "03e8df17-735c-4ad8-baf5-0ea68534112a",
+   "name": "WW Surf G10/11 Aspire",
+   "rating": 1501,
+   "games": 3
+  },
+  {
+   "id": "b37a9b73-02e3-4ed5-b15c-43ee84fa8612",
+   "name": "Seattle Celtic G10 Green",
+   "rating": 1497,
+   "games": 7
+  },
+  {
+   "id": "0e944d88-2021-4d80-b4fa-2297558d1163",
+   "name": "Mt. Rainier FC G10/11 Academy GA Aspire",
+   "rating": 1495,
+   "games": 6
+  },
+  {
+   "id": "f7998e33-1924-4302-8d4e-2c99f26b8c25",
+   "name": "Kitsap Alliance FC G10/11 Blue",
+   "rating": 1447,
+   "games": 4
+  },
+  {
+   "id": "17d8784d-da93-46f6-a53d-bd9ac73321d4",
+   "name": "Wenatchee FA G10/11 Black",
+   "rating": 1420,
+   "games": 6
+  },
+  {
+   "id": "af001464-380b-47f6-93b8-658dff73563b",
+   "name": "Emerald City FC G10/11 Green",
+   "rating": 1414,
+   "games": 5
+  },
+  {
+   "id": "16987ccc-09c4-4476-ba7b-933347b9b511",
+   "name": "Highline Premier FC G10/11 Blue Eagles",
+   "rating": 1413,
+   "games": 6
+  },
+  {
+   "id": "e91f2acf-b2f1-458e-9fb2-a4df3f02a39f",
+   "name": "Mt. Rainier FC G10/11 Red",
+   "rating": 1411,
+   "games": 4
+  },
+  {
+   "id": "d055ba7f-8548-45db-9618-61e790c6642b",
+   "name": "WPFC G10 Black",
+   "rating": 1389,
+   "games": 3
+  },
+  {
+   "id": "720b5442-35ee-441b-8aab-c32e870c3199",
+   "name": "XF Select G10/11",
+   "rating": 1385,
+   "games": 3
+  },
+  {
+   "id": "2afb5ce8-5572-441c-ae98-4d7fdf079bed",
+   "name": "Seattle United South G10 Blue",
+   "rating": 1379,
+   "games": 3
+  },
+  {
+   "id": "e11a4d93-cd76-45ec-8ed3-6afb8e93fab1",
+   "name": "Dragons FC G10",
+   "rating": 1374,
+   "games": 7
+  },
+  {
+   "id": "6bc9cb3f-7a2b-4cc1-86b4-0336ae930b83",
+   "name": "Mt. Rainier FC Academy G10/11 2",
+   "rating": 1367,
+   "games": 3
+  },
+  {
+   "id": "4e436231-dc42-49d2-9116-bc3f7c2d41a6",
+   "name": "Seattle United G10 Copa",
+   "rating": 1363,
+   "games": 6
+  },
+  {
+   "id": "72643809-2744-465a-b0f2-01e6370b6a81",
+   "name": "Eagleclaw FC G10/11 EFC",
+   "rating": 1355,
+   "games": 3
+  },
+  {
+   "id": "cc1e6b64-314d-43bd-bd86-b039fe91abc5",
+   "name": "WW Surf North Premier G10/11",
+   "rating": 1354,
+   "games": 6
+  },
+  {
+   "id": "ef9d661d-93c7-45cb-bc26-e9bc824e40e6",
+   "name": "Mukilteo Youth Soccer Club G10/11",
+   "rating": 1353,
+   "games": 3
+  },
+  {
+   "id": "9d8d5794-4d7e-4619-a564-7d72e1ecdbad",
+   "name": "Sozo FC G10/11 Gold Rivera",
+   "rating": 1346,
+   "games": 3
+  },
+  {
+   "id": "5faa0765-daca-4a2f-9275-176ff364d524",
+   "name": "Emerald City FC G10/11 White",
+   "rating": 1329,
+   "games": 6
+  }
+ ],
+ "girls-2011": [
+  {
+   "id": "ae390da1-9e02-4d9e-ac8c-a79207a61151",
+   "name": "XF G11/12 ECNL 1",
+   "rating": 2293,
+   "games": 14
+  },
+  {
+   "id": "8f228170-7844-454c-9c9c-874e00c960c0",
+   "name": "WPFC G11/12 ECNL",
+   "rating": 2022,
+   "games": 7
+  },
+  {
+   "id": "e7133e69-8756-4769-9ddb-6c3c891a2675",
+   "name": "WPFC G11/12 ECNL RL",
+   "rating": 1992,
+   "games": 4
+  },
+  {
+   "id": "a75827c4-e81e-4d17-ab6f-4a333cea9f5c",
+   "name": "PacNW SC G11/12 ECNL",
+   "rating": 1982,
+   "games": 8
+  },
+  {
+   "id": "cca327d9-2b02-4d3b-9066-79d5782f9f69",
+   "name": "Eastside FC G11/12 ECNL RL",
+   "rating": 1831,
+   "games": 5
+  },
+  {
+   "id": "03e0df77-3823-49ab-9ed9-409854cd7648",
+   "name": "Eastside FC G11/12 ECNL",
+   "rating": 1774,
+   "games": 6
+  },
+  {
+   "id": "61c1ff7a-3201-4865-8966-8926e3a56fe7",
+   "name": "Seattle United G11/12 ECNL",
+   "rating": 1732,
+   "games": 6
+  },
+  {
+   "id": "95321bd8-ace5-4ac2-9a6f-566ccb01ac5c",
+   "name": "United Sports FC G11/12 Elite",
+   "rating": 1697,
+   "games": 11
+  },
+  {
+   "id": "815a08b7-f745-4714-aa5f-8b652d5f85d7",
+   "name": "Harbor Soccer Club Premier G11/12 Pre-GA GA",
+   "rating": 1695,
+   "games": 7
+  },
+  {
+   "id": "4fd8a24e-b2fe-49e4-8801-fe34585cebe2",
+   "name": "Seattle Celtic GA 11/12",
+   "rating": 1682,
+   "games": 8
+  },
+  {
+   "id": "05377062-643c-4b51-99d2-ba6e7dfaf392",
+   "name": "Whatcom FC Rangers G11/12 ECNL RL",
+   "rating": 1678,
+   "games": 3
+  },
+  {
+   "id": "1400dc80-b6c9-4691-b0c3-ef321d3033af",
+   "name": "WW Surf Academy G11/12 GA",
+   "rating": 1676,
+   "games": 7
+  },
+  {
+   "id": "1af6050c-dde9-4a13-a404-2316d9a052e6",
+   "name": "Snohomish United G11/12 ECNL RL",
+   "rating": 1651,
+   "games": 3
+  },
+  {
+   "id": "a6f41986-65c9-4c91-acd9-d87306b8a6ac",
+   "name": "WW Surf G11/12 Aspire",
+   "rating": 1650,
+   "games": 7
+  },
+  {
+   "id": "46743b43-1ee3-4ac2-aec0-cd9a5e50f49c",
+   "name": "Wenatchee FA G11/12 Black",
+   "rating": 1642,
+   "games": 8
+  },
+  {
+   "id": "8b9a0f4a-885a-4be0-9e5b-8df12034ce95",
+   "name": "XF G11/12 ECNL RL",
+   "rating": 1637,
+   "games": 12
+  },
+  {
+   "id": "27a5391b-f8a0-45ad-aa23-b6870ce629dd",
+   "name": "WPFC G11 Black",
+   "rating": 1602,
+   "games": 5
+  },
+  {
+   "id": "8047a161-53ed-41a4-9216-eef2f569e8c7",
+   "name": "West Sound Soccer Academy G11/12",
+   "rating": 1594,
+   "games": 7
+  },
+  {
+   "id": "06fd0dcc-de1e-4dc3-916f-4f4713289543",
+   "name": "Washington Rush G11/12 GA",
+   "rating": 1564,
+   "games": 7
+  },
+  {
+   "id": "93200f61-23d5-40e9-aa8d-02dab5c1cce9",
+   "name": "PacNW SC G11/12 ECNL RL",
+   "rating": 1558,
+   "games": 7
+  },
+  {
+   "id": "34bc18eb-8181-4a4a-aacd-e45cc31e07fa",
+   "name": "Kitsap Alliance FC G11/12 Blue",
+   "rating": 1516,
+   "games": 4
+  },
+  {
+   "id": "2ae28e26-b358-461e-830f-700aa83a7669",
+   "name": "PacNW SC G11/12 Maroon",
+   "rating": 1504,
+   "games": 4
+  },
+  {
+   "id": "ff361a9a-0d45-4ebf-bafe-74e004fb826a",
+   "name": "Highline Premier FC G11/12 Blue",
+   "rating": 1499,
+   "games": 3
+  },
+  {
+   "id": "c19ee83e-c56e-4db8-b0af-e09d78eb133a",
+   "name": "PacNW SC G11/12 Blue",
+   "rating": 1467,
+   "games": 4
+  },
+  {
+   "id": "bdf9943f-8213-49d2-936e-4373381b66e8",
+   "name": "Mt. Rainier FC G11/12 Academy GA Aspire",
+   "rating": 1461,
+   "games": 6
+  },
+  {
+   "id": "619fad29-c733-4c8d-9d92-dc231654ddc4",
+   "name": "Emerald City FC G11/12 Green",
+   "rating": 1460,
+   "games": 7
+  },
+  {
+   "id": "b1833534-bdf9-4c42-844d-fe1178280758",
+   "name": "WW Surf G11/12 NPL 1",
+   "rating": 1457,
+   "games": 4
+  },
+  {
+   "id": "7f0aa9b2-3d15-4474-a3d9-2b830ec1c1c5",
+   "name": "Emerald City FC G11/12 White Football",
+   "rating": 1452,
+   "games": 3
+  },
+  {
+   "id": "d3a70810-0e28-41ca-a85c-6704d817c75d",
+   "name": "Eastside FC G11/12 Red",
+   "rating": 1423,
+   "games": 3
+  },
+  {
+   "id": "1f7c7797-9e04-4735-ba75-4dfdc4b068d1",
+   "name": "Seattle United Northwest G11 Blue",
+   "rating": 1415,
+   "games": 3
+  },
+  {
+   "id": "f6127de3-a20d-4984-9f9e-12d8efb4abb6",
+   "name": "Seattle United G11 Copa",
+   "rating": 1402,
+   "games": 3
+  },
+  {
+   "id": "ba0daf83-72d9-497d-baaa-ebe474bf1ef6",
+   "name": "Warriors G11/12 Attack",
+   "rating": 1392,
+   "games": 3
+  },
+  {
+   "id": "83b5393c-7d88-4026-b819-0a4e68979f4e",
+   "name": "Kitsap Alliance FC G11/12 White",
+   "rating": 1387,
+   "games": 7
+  },
+  {
+   "id": "29693367-b55c-4a57-88bf-152eed3015ea",
+   "name": "WW Surf North Premier G11/12",
+   "rating": 1386,
+   "games": 3
+  },
+  {
+   "id": "89d7a1b7-9a2f-4a0f-96f2-0db3399ff5c4",
+   "name": "WPFC G11 White",
+   "rating": 1372,
+   "games": 3
+  },
+  {
+   "id": "56e1a517-7b55-4a4b-b73e-e674ac6b8258",
+   "name": "Mukilteo Youth Soccer Club G11/12",
+   "rating": 1355,
+   "games": 6
+  },
+  {
+   "id": "383809d5-520d-489c-b155-fcc2f0fabed0",
+   "name": "Eastside FC West G11/12 Maroon",
+   "rating": 1340,
+   "games": 6
+  },
+  {
+   "id": "6a6bb40d-89b9-4326-8a22-54c8f13185c2",
+   "name": "Mt. Rainier FC Academy G11/12 2",
+   "rating": 1339,
+   "games": 3
+  },
+  {
+   "id": "b3f8dfed-a35f-450b-9d3d-d0eaf2f10aab",
+   "name": "XF Select G11/12 B Brown",
+   "rating": 1336,
+   "games": 6
+  },
+  {
+   "id": "826f1f29-f7b1-4da2-897d-e617b66b0579",
+   "name": "WW Surf Central Premier G11/12",
+   "rating": 1334,
+   "games": 3
+  },
+  {
+   "id": "2c30330f-4627-4f04-b5b1-83d04a15a7ec",
+   "name": "Seattle Celtic G11 Green",
+   "rating": 1332,
+   "games": 3
+  }
+ ],
+ "girls-2012": [
+  {
+   "id": "29163c1f-40de-47b9-827a-faba5a963188",
+   "name": "XF G12/13 ECNL 1",
+   "rating": 2236,
+   "games": 14
+  },
+  {
+   "id": "e5eafdaa-ea35-4cf2-b32e-8112f34b5277",
+   "name": "WPFC G12/13 ECNL",
+   "rating": 2005,
+   "games": 13
+  },
+  {
+   "id": "e317f25c-b9ed-4e96-b2e7-71c9010e3e77",
+   "name": "Eastside FC G12/13 ECNL",
+   "rating": 1993,
+   "games": 11
+  },
+  {
+   "id": "cd7a72d0-8039-424b-aa23-f351e6ae0640",
+   "name": "PacNW SC G12/13 ECNL",
+   "rating": 1926,
+   "games": 10
+  },
+  {
+   "id": "4fd3bac2-e2cb-4c89-ad45-d43299f97698",
+   "name": "Seattle United G12/13 ECNL",
+   "rating": 1845,
+   "games": 6
+  },
+  {
+   "id": "8ee14c45-6f57-4bc5-a33b-7f3fca8e0ce3",
+   "name": "Seattle Celtic GA 12/13",
+   "rating": 1821,
+   "games": 8
+  },
+  {
+   "id": "04f6b9ed-2096-4e47-92be-669624c3e698",
+   "name": "XF G12/13 ECNL RL",
+   "rating": 1819,
+   "games": 10
+  },
+  {
+   "id": "a852032d-d80b-4262-ad1d-5b57054b5da1",
+   "name": "Whatcom FC Rangers G12/13 ECNL RL",
+   "rating": 1714,
+   "games": 5
+  },
+  {
+   "id": "ae62cc2e-108c-4eb8-9b28-83e496f98a26",
+   "name": "Seattle United G12/13 ECNL RL",
+   "rating": 1691,
+   "games": 4
+  },
+  {
+   "id": "ad0ee6cb-3a06-487f-a403-0d21a6ecd480",
+   "name": "Harbor Soccer Club Premier G12/13 Pre-GA",
+   "rating": 1673,
+   "games": 4
+  },
+  {
+   "id": "15880add-a5b9-40de-a9cd-3d417ad2e0cb",
+   "name": "WPFC G12/13 ECNL RL",
+   "rating": 1666,
+   "games": 7
+  },
+  {
+   "id": "976f1875-2d30-404d-a679-69e3d78442e7",
+   "name": "WW Surf G12/13 GA Aspire",
+   "rating": 1633,
+   "games": 8
+  },
+  {
+   "id": "3baf1c12-e30f-4345-ae04-5ed5f90c0e93",
+   "name": "Sozo FC G12/13 Gold",
+   "rating": 1630,
+   "games": 4
+  },
+  {
+   "id": "c93006d3-62df-45d8-8619-eb1fa23958fd",
+   "name": "WW Surf Academy G12/13 GA",
+   "rating": 1629,
+   "games": 7
+  },
+  {
+   "id": "b95f46b9-5e56-40bc-b2bc-610e407c5379",
+   "name": "Eastside FC G12/13 ECNL RL",
+   "rating": 1606,
+   "games": 10
+  },
+  {
+   "id": "b5d20ad6-a99f-4b22-9a36-a2c55e9211dc",
+   "name": "Dragons FC G12",
+   "rating": 1580,
+   "games": 7
+  },
+  {
+   "id": "c7ad30ce-c14c-49e5-9716-5d27a41f13e0",
+   "name": "PacNW SC G12/13 ECNL RL",
+   "rating": 1579,
+   "games": 4
+  },
+  {
+   "id": "bea93853-36a2-4d44-a6a7-a1f88d142924",
+   "name": "Mukilteo Youth Soccer Club G12/13 Navy",
+   "rating": 1568,
+   "games": 10
+  },
+  {
+   "id": "1edc3c63-0527-4ca6-8cf9-47dba16bd7e0",
+   "name": "Seattle Celtic G12 Green",
+   "rating": 1566,
+   "games": 15
+  },
+  {
+   "id": "2e33bd81-3411-4816-9fba-172b30caf9f6",
+   "name": "Snohomish United G12/13 ECNL RL",
+   "rating": 1562,
+   "games": 4
+  },
+  {
+   "id": "b99b267f-f53a-4a00-9a56-8b3c1624f744",
+   "name": "West Sound Soccer Academy G12/13",
+   "rating": 1550,
+   "games": 7
+  },
+  {
+   "id": "0f014cd9-2b55-4d4b-a661-64eeb5a9ef80",
+   "name": "WPFC G12 Black",
+   "rating": 1539,
+   "games": 4
+  },
+  {
+   "id": "ae4ad587-8c3e-4822-bb91-d13d1c1950ee",
+   "name": "Kitsap Alliance FC G12/13 Blue",
+   "rating": 1530,
+   "games": 7
+  },
+  {
+   "id": "c696abf2-601e-4af8-8a5c-aa19d1f0a35e",
+   "name": "Sparta Tacoma G12/13 White",
+   "rating": 1520,
+   "games": 5
+  },
+  {
+   "id": "75897ffa-f9fa-4df8-9f3c-df23f7ce0542",
+   "name": "WW Surf Central Premier G12/13",
+   "rating": 1480,
+   "games": 5
+  },
+  {
+   "id": "2acd11d0-f52c-4259-95a2-42179344c20b",
+   "name": "Washington Rush G12/13 GA",
+   "rating": 1469,
+   "games": 7
+  },
+  {
+   "id": "c03ce569-eec9-42bf-9e46-955cb80af44e",
+   "name": "Mt. Rainier FC G12/13 Academy GA Aspire",
+   "rating": 1448,
+   "games": 10
+  },
+  {
+   "id": "b103c334-10ea-4acc-bbca-b0fbfa1f5b5a",
+   "name": "Emerald City FC G12/13 Green",
+   "rating": 1448,
+   "games": 4
+  },
+  {
+   "id": "0309db8b-38b0-4fcf-aea7-87444f673968",
+   "name": "Eastside FC G12/13 Red Kovats",
+   "rating": 1442,
+   "games": 6
+  },
+  {
+   "id": "96c9bbbf-4092-4327-9e50-ba0288cf2703",
+   "name": "Seattle United Shoreline G12 Blue",
+   "rating": 1439,
+   "games": 7
+  },
+  {
+   "id": "246eff27-7bc6-43d1-a14a-39e6a5fadcf2",
+   "name": "Highline Premier FC G12/13 Blue Eagles",
+   "rating": 1436,
+   "games": 6
+  },
+  {
+   "id": "33ac0690-e838-434a-8e10-44dfbd23f215",
+   "name": "Mukilteo Youth Soccer Club G12/13 Green",
+   "rating": 1417,
+   "games": 4
+  },
+  {
+   "id": "cc1ccf7b-7f39-4d38-9419-8e4f54c6d308",
+   "name": "Seattle United G12 Copa",
+   "rating": 1413,
+   "games": 7
+  },
+  {
+   "id": "0dba57a0-42b8-417e-a942-b0949f175a5f",
+   "name": "Dragons FC G12/13",
+   "rating": 1401,
+   "games": 13
+  },
+  {
+   "id": "625ca70f-2a33-4102-9af4-093a426efb13",
+   "name": "WW Surf G12/13 NPL 1",
+   "rating": 1396,
+   "games": 4
+  },
+  {
+   "id": "0e026cd7-9f09-4851-aa2e-a5d9490b99d4",
+   "name": "PacNW SC G12/13 Maroon",
+   "rating": 1389,
+   "games": 3
+  },
+  {
+   "id": "d49fc4eb-37c0-4dff-aaf2-a56a7cba237f",
+   "name": "Whatcom FC Rangers Select G12/13 County",
+   "rating": 1382,
+   "games": 3
+  },
+  {
+   "id": "33ac8301-9fc3-44f4-8243-0ebdeddbcea4",
+   "name": "XF Select G12/13 A",
+   "rating": 1375,
+   "games": 4
+  },
+  {
+   "id": "bbce5dec-5423-4b4b-8ad9-b35feccc301e",
+   "name": "Sparta Tacoma G12/13 Red",
+   "rating": 1374,
+   "games": 3
+  },
+  {
+   "id": "40b91f3c-53e4-4e19-b86b-6d7069d5b402",
+   "name": "Lake Washington Premier FC G12/13 White Marlins",
+   "rating": 1367,
+   "games": 7
+  },
+  {
+   "id": "7255608d-4e0b-4b9d-a6af-844db9711274",
+   "name": "Emerald City FC G12/13 White ( W )",
+   "rating": 1365,
+   "games": 4
+  },
+  {
+   "id": "ead2500a-df1e-46ee-b8b7-49478a01c350",
+   "name": "XF Select G12/13 Humphrey's",
+   "rating": 1355,
+   "games": 3
+  },
+  {
+   "id": "2687bc15-48d7-4ad9-b415-fcc27203c36d",
+   "name": "Seattle Celtic G12 White",
+   "rating": 1352,
+   "games": 3
+  },
+  {
+   "id": "af90bfa7-7d67-4882-9eaa-a245271889fb",
+   "name": "Mt. Rainier FC Academy G12/13 2",
+   "rating": 1351,
+   "games": 6
+  },
+  {
+   "id": "61292395-b912-4334-9df9-d84c26388c23",
+   "name": "Wenatchee FA G12/13 Black",
+   "rating": 1346,
+   "games": 6
+  }
+ ],
+ "girls-2013": [
+  {
+   "id": "0778dd2a-945d-45f7-8f50-cc31f0cb8756",
+   "name": "Eastside FC G13/14 ECNL",
+   "rating": 2138,
+   "games": 11
+  },
+  {
+   "id": "4cf1adfa-fb7d-4da3-8f6f-655311c671f0",
+   "name": "WPFC G13/14 ECNL",
+   "rating": 2125,
+   "games": 11
+  },
+  {
+   "id": "0128883f-7764-4145-9e5c-7ff04d8a2d03",
+   "name": "XF G13/14 ECNL 1",
+   "rating": 2104,
+   "games": 14
+  },
+  {
+   "id": "da0c6fcd-e902-4e55-8ecb-00be06445770",
+   "name": "XF G13/14 ECNL RL",
+   "rating": 1968,
+   "games": 16
+  },
+  {
+   "id": "cc8d25ad-91b7-49d7-a610-5a6b7c403299",
+   "name": "Seattle United G13/14 ECNL",
+   "rating": 1799,
+   "games": 6
+  },
+  {
+   "id": "169c4ee3-aaa6-448c-8b71-2805113b1cd3",
+   "name": "PacNW SC G13/14 ECNL RL",
+   "rating": 1785,
+   "games": 8
+  },
+  {
+   "id": "c57786a4-2986-498b-9698-bfff22dd6fe7",
+   "name": "Snohomish United G13/14 ECNL RL",
+   "rating": 1756,
+   "games": 4
+  },
+  {
+   "id": "ceb64e6f-f37d-4504-a758-fff332171e02",
+   "name": "Whatcom FC Rangers G13/14 ECNL RL",
+   "rating": 1737,
+   "games": 5
+  },
+  {
+   "id": "68815ab3-3fe7-41e8-ba49-cdf00969b28e",
+   "name": "PacNW SC G13/14 ECNL",
+   "rating": 1714,
+   "games": 9
+  },
+  {
+   "id": "2fd3a7f7-69de-444c-8c7d-f75559ba9645",
+   "name": "Seattle United G13/14 ECNL RL",
+   "rating": 1683,
+   "games": 4
+  },
+  {
+   "id": "72b0c988-946a-435e-b910-f247e3672ac1",
+   "name": "WPFC G13/14 ECNL RL",
+   "rating": 1682,
+   "games": 12
+  },
+  {
+   "id": "6ff86e50-a0d8-4926-b879-545e1acaee47",
+   "name": "Washington Rush G13/14 GA",
+   "rating": 1665,
+   "games": 4
+  },
+  {
+   "id": "fbcc0a8d-3d0a-4499-8a9b-9c9b88869830",
+   "name": "WW Surf G13/14 GA Aspire",
+   "rating": 1650,
+   "games": 6
+  },
+  {
+   "id": "c4b3e6da-1ac2-4d15-9685-bb955255ce06",
+   "name": "Harbor Soccer Club G13/14 Pre-GA",
+   "rating": 1641,
+   "games": 3
+  },
+  {
+   "id": "4e533b64-93a4-4f04-9483-e330736d415b",
+   "name": "Eastside FC G13/14 ECNL RL Deighton",
+   "rating": 1608,
+   "games": 10
+  },
+  {
+   "id": "63ce9e03-b7bc-48b9-bdf4-68759426c08e",
+   "name": "Sozo FC G13/14 Gold",
+   "rating": 1606,
+   "games": 5
+  },
+  {
+   "id": "418bc937-af8f-4faa-8942-bdf1e562179a",
+   "name": "Lake Washington Premier FC G13/14 White Viperfish",
+   "rating": 1573,
+   "games": 5
+  },
+  {
+   "id": "eea78b9e-50f5-4bbb-b327-86bd19805b4d",
+   "name": "Mt. Rainier FC Academy G13/14 GA Aspire",
+   "rating": 1550,
+   "games": 12
+  },
+  {
+   "id": "2a9fc179-90a3-44a3-a9c7-685c9943bb92",
+   "name": "Seattle Celtic G13 Green",
+   "rating": 1545,
+   "games": 15
+  },
+  {
+   "id": "6fcac9f2-22c4-4b88-ad98-34a12fa3ba52",
+   "name": "Sparta Tacoma G13/14 Red",
+   "rating": 1522,
+   "games": 4
+  },
+  {
+   "id": "f0132961-d3c1-4215-916b-c561f7d516c8",
+   "name": "Mukilteo Youth Soccer Club G13/14 Navy ReignStorm",
+   "rating": 1520,
+   "games": 4
+  },
+  {
+   "id": "5e7810a4-230a-4586-a4da-5d4950ee5286",
+   "name": "Seattle Celtic GA 13/14",
+   "rating": 1509,
+   "games": 10
+  },
+  {
+   "id": "6f4b9535-02ad-4c28-88be-ab71f3960929",
+   "name": "Valor Soccer G13/14 ECNL RL",
+   "rating": 1503,
+   "games": 7
+  },
+  {
+   "id": "400aa881-9087-49d8-b81f-f40f0f710f8a",
+   "name": "XF G13/14 RCL 1",
+   "rating": 1496,
+   "games": 13
+  },
+  {
+   "id": "408ab4b2-a9aa-4a81-8860-035189242165",
+   "name": "Highline Premier FC G13/14 RCL Blue",
+   "rating": 1496,
+   "games": 7
+  },
+  {
+   "id": "ab4698d3-edf3-40f7-af70-f6b495372316",
+   "name": "Seattle United G13 Copa",
+   "rating": 1466,
+   "games": 7
+  },
+  {
+   "id": "83331d04-2a22-4daa-89c2-d51fcf573c92",
+   "name": "West Sound Soccer Academy G13/14",
+   "rating": 1457,
+   "games": 7
+  },
+  {
+   "id": "82018dc2-e759-40c3-b284-60880c2a427b",
+   "name": "XF Select G13/14 A",
+   "rating": 1448,
+   "games": 9
+  },
+  {
+   "id": "c078940c-1c44-4309-9e18-e698bed018fe",
+   "name": "Mt. Rainier FC Academy G13/14 2",
+   "rating": 1433,
+   "games": 11
+  },
+  {
+   "id": "ba84277b-f899-4178-b71a-1de359ffa3b0",
+   "name": "Dragons FC G13/14",
+   "rating": 1429,
+   "games": 7
+  },
+  {
+   "id": "81717596-1527-4839-a3a8-bbc85b63487c",
+   "name": "Whatcom FC Rangers Select G13/14 County",
+   "rating": 1420,
+   "games": 3
+  },
+  {
+   "id": "c67a8165-87c8-4f39-a628-ebb9913d92eb",
+   "name": "WPFC G13 Black WP",
+   "rating": 1414,
+   "games": 3
+  },
+  {
+   "id": "4c0c3d94-d0d8-4ccb-bfa6-c03075dfb077",
+   "name": "Kitsap Alliance FC G13/14 National 1 Blue",
+   "rating": 1409,
+   "games": 3
+  },
+  {
+   "id": "209f1697-a036-4869-8ba1-163ede1f2e6e",
+   "name": "Seattle United South G13 Blue",
+   "rating": 1398,
+   "games": 4
+  },
+  {
+   "id": "2e7ed2fe-b92f-4cd1-ad10-bc92441b3e72",
+   "name": "Emerald City FC G13/14 White ( W )",
+   "rating": 1392,
+   "games": 4
+  },
+  {
+   "id": "231f2074-c58c-41b7-9263-db284b49e7bd",
+   "name": "WW Surf North Premier G13/14",
+   "rating": 1389,
+   "games": 4
+  },
+  {
+   "id": "93a8ecc0-ca97-4c74-83eb-07062fcb3c9a",
+   "name": "Wenatchee FA G13/14 Black",
+   "rating": 1386,
+   "games": 7
+  },
+  {
+   "id": "af9dc3c9-48b1-41db-9439-7087be3d8677",
+   "name": "Eastside FC G13/14 Red",
+   "rating": 1377,
+   "games": 7
+  },
+  {
+   "id": "fec15426-822f-4f26-b7e3-9676404cb186",
+   "name": "Mukilteo Youth Soccer Club G13/14 Rose Point",
+   "rating": 1344,
+   "games": 4
+  },
+  {
+   "id": "3c31f16c-6730-4e41-bb12-a293f1e7b176",
+   "name": "XF Select G13/14 B (Dolan)",
+   "rating": 1288,
+   "games": 6
+  }
+ ],
+ "girls-2014": [
+  {
+   "id": "4a599e6f-47b3-4352-928e-1cba64e3801d",
+   "name": "XF G14/15 Pre-ECNL 1",
+   "rating": 2497,
+   "games": 21
+  },
+  {
+   "id": "7a665897-6e7c-40e9-9f73-b89d3e4111c6",
+   "name": "Seattle United G14/15 Pre-ECNL",
+   "rating": 2042,
+   "games": 11
+  },
+  {
+   "id": "dca17ce7-315e-42b5-842d-c9923d487ba3",
+   "name": "Seattle Celtic G14 Pre-GA",
+   "rating": 1927,
+   "games": 15
+  },
+  {
+   "id": "6fb89cbd-07e8-4b2d-b975-682720844ab7",
+   "name": "Eastside FC G14/15 Pre-ECNL I",
+   "rating": 1835,
+   "games": 9
+  },
+  {
+   "id": "c3e9e682-3320-479b-b999-f8cee2fbe4b5",
+   "name": "Eastside FC G14/15 Pre-ECNL 2",
+   "rating": 1810,
+   "games": 10
+  },
+  {
+   "id": "2d1631e4-a008-4a78-b6e3-d3bca0e38288",
+   "name": "WW Surf Central G14/15 GA Inspire",
+   "rating": 1789,
+   "games": 12
+  },
+  {
+   "id": "14f1fa43-d394-4759-a911-02f5d4a1d090",
+   "name": "Harbor Soccer Club Premier G14/15 GA",
+   "rating": 1768,
+   "games": 7
+  },
+  {
+   "id": "f6a756f7-56aa-4cd7-8049-28c9e626c017",
+   "name": "PacNW SC G14/15 Pre-ECNL",
+   "rating": 1765,
+   "games": 17
+  },
+  {
+   "id": "f4164e67-004d-47ea-a6b7-b3ae51123828",
+   "name": "Seattle United G14/15 Pre-ECNL Copa",
+   "rating": 1744,
+   "games": 9
+  },
+  {
+   "id": "0bb531cb-f286-4818-ad7e-8135425d0ad5",
+   "name": "Seattle Celtic G14 GA",
+   "rating": 1740,
+   "games": 14
+  },
+  {
+   "id": "05edf39e-0565-43eb-aa8b-facea1b4de58",
+   "name": "Washington Rush G14/15 Pre-GA",
+   "rating": 1733,
+   "games": 3
+  },
+  {
+   "id": "a1fa5d30-b604-41e8-91a9-20fca3f5a970",
+   "name": "WPFC G14/15 Pre-ECNL",
+   "rating": 1717,
+   "games": 10
+  },
+  {
+   "id": "557cc537-adf3-4f37-95f8-6ead70ff65f1",
+   "name": "Snohomish United G14/15 Pre-ECNL",
+   "rating": 1647,
+   "games": 7
+  },
+  {
+   "id": "0e3e1411-e1b7-47a8-b9c7-999e2bd5a521",
+   "name": "Warriors G14/15 Attack",
+   "rating": 1645,
+   "games": 13
+  },
+  {
+   "id": "8329208f-0e68-4f8a-ab90-00603d25d4de",
+   "name": "XF G14/15 Pre-ECNL 2",
+   "rating": 1643,
+   "games": 12
+  },
+  {
+   "id": "58b58485-d2c9-4954-a62a-0de11d6be683",
+   "name": "United Sports FC G14/15 Navy",
+   "rating": 1629,
+   "games": 5
+  },
+  {
+   "id": "218c1895-1253-42f7-9ae9-91b85a82b566",
+   "name": "Seattle Celtic G14 White",
+   "rating": 1612,
+   "games": 18
+  },
+  {
+   "id": "253eb430-a403-4988-8cfa-04f0f20137e0",
+   "name": "Mt. Rainier FC G14/15 Academy-1",
+   "rating": 1592,
+   "games": 10
+  },
+  {
+   "id": "7c8a0785-4da1-4dbd-9f14-d091c445c983",
+   "name": "XF Select G14/15 Northrup",
+   "rating": 1586,
+   "games": 11
+  },
+  {
+   "id": "f421c69c-7491-4c38-b0a1-35745e45667b",
+   "name": "WPFC G14 Black A",
+   "rating": 1565,
+   "games": 11
+  },
+  {
+   "id": "e226128c-4c25-4da9-996f-cd60559151f4",
+   "name": "Seattle United G14 Tango",
+   "rating": 1541,
+   "games": 7
+  },
+  {
+   "id": "83e6a646-71fe-4dfb-a054-31c639417ae8",
+   "name": "Eastside FC G14/15 Red",
+   "rating": 1538,
+   "games": 8
+  },
+  {
+   "id": "3ee72868-d3c7-4d93-ab05-e3aad13c9c09",
+   "name": "Highline Premier FC G14/15 RCL Blue",
+   "rating": 1538,
+   "games": 8
+  },
+  {
+   "id": "f1fbb508-d73c-4caa-afbe-df611322b539",
+   "name": "Seattle Celtic G14 Green",
+   "rating": 1513,
+   "games": 7
+  },
+  {
+   "id": "e8d9468f-2da7-42d9-9439-e7ffead195a8",
+   "name": "Wenatchee FA G14/15 Black",
+   "rating": 1512,
+   "games": 4
+  },
+  {
+   "id": "4434760b-d2f7-48f1-85de-c905e8622848",
+   "name": "Eastside FC West G14/15 Maroon",
+   "rating": 1509,
+   "games": 12
+  },
+  {
+   "id": "56abdfcc-3f69-4e50-9c40-cac324d8a42e",
+   "name": "Harbor Soccer Club Premier G14/15 RCL 1",
+   "rating": 1461,
+   "games": 4
+  },
+  {
+   "id": "5cd88373-fb09-463b-85c3-cbae2fa74149",
+   "name": "Emerald City FC G14/15 Green",
+   "rating": 1455,
+   "games": 11
+  },
+  {
+   "id": "35ed394b-a6a0-436d-a60b-40b3ae6fea5a",
+   "name": "Whatcom FC Rangers G14/15 Silver",
+   "rating": 1447,
+   "games": 3
+  },
+  {
+   "id": "12da41a6-a319-4caa-a994-ba0cd0581742",
+   "name": "Valor Soccer G14/15 Pre-ECNL",
+   "rating": 1433,
+   "games": 4
+  },
+  {
+   "id": "18f57c4f-cfcf-41c1-af36-d79db94a7ee4",
+   "name": "Kitsap Alliance FC G14/15 Blue",
+   "rating": 1399,
+   "games": 7
+  },
+  {
+   "id": "067e5432-ac65-463f-8de5-365565f416bc",
+   "name": "XF Select G14/15 A",
+   "rating": 1393,
+   "games": 3
+  },
+  {
+   "id": "88015d05-dc6d-498c-9b6b-40514ce27c01",
+   "name": "Seattle United Northwest G14 White",
+   "rating": 1392,
+   "games": 7
+  },
+  {
+   "id": "8521f733-3ddf-4465-afa6-0df832ffd268",
+   "name": "WPFC G14 White B",
+   "rating": 1391,
+   "games": 7
+  },
+  {
+   "id": "7c978246-38f0-44a6-ac63-1cad77349472",
+   "name": "Seattle United Northwest G12 Blue",
+   "rating": 1387,
+   "games": 6
+  },
+  {
+   "id": "c2a049e8-9dc1-4119-9924-372c59440310",
+   "name": "Highline Premier FC Select G12 (SA) Bonaci",
+   "rating": 1384,
+   "games": 6
+  },
+  {
+   "id": "40b383ef-14ae-4a75-96ce-225cfabe23d6",
+   "name": "WW Surf Premier G14/15 Bellevue",
+   "rating": 1367,
+   "games": 4
+  },
+  {
+   "id": "81d17bcd-875e-4938-bedb-edbcab227d0f",
+   "name": "Seattle Celtic G14 Orange",
+   "rating": 1361,
+   "games": 10
+  },
+  {
+   "id": "0aa8d364-9ac6-438e-b1ba-d13bce9ad8d1",
+   "name": "XF Select G14/15 C",
+   "rating": 1351,
+   "games": 3
+  },
+  {
+   "id": "fdacec46-2657-430e-adfe-ac39b6a4322c",
+   "name": "BVB International Academy Washington G14/15 NPL/WPL",
+   "rating": 1346,
+   "games": 10
+  },
+  {
+   "id": "5d1f3b27-302d-407b-ba9d-3b571423fb08",
+   "name": "West Sound Soccer Academy G14/15",
+   "rating": 1323,
+   "games": 7
+  }
+ ],
+ "girls-2015": [
+  {
+   "id": "0e42df19-57e4-4472-a9e5-a3bee5462a58",
+   "name": "XF G15/16 Pre-ECNL 1",
+   "rating": 2223,
+   "games": 20
+  },
+  {
+   "id": "c1d24d39-7736-48c7-ba6d-022bfc848247",
+   "name": "Eastside FC G15/16 Pre-ECNL I",
+   "rating": 2039,
+   "games": 10
+  },
+  {
+   "id": "bb1979be-0b68-4312-89b1-ca62a055331e",
+   "name": "Harbor Soccer Club Premier G15/16 GA",
+   "rating": 1978,
+   "games": 8
+  },
+  {
+   "id": "cb2a5245-3132-4b5e-823d-31016fe55ada",
+   "name": "XF G15/16 RCL 1",
+   "rating": 1966,
+   "games": 14
+  },
+  {
+   "id": "967d3c02-b1d5-4efb-82b2-8d4a883d2f7b",
+   "name": "Washington Rush G15/16 GA Inspire",
+   "rating": 1924,
+   "games": 4
+  },
+  {
+   "id": "7bc10e75-6880-4c42-9cea-d6e95a22cc22",
+   "name": "WW Surf Central G15/16 GA Inspire",
+   "rating": 1843,
+   "games": 4
+  },
+  {
+   "id": "60f4ed1e-6730-47b8-8614-809c9a4fe81a",
+   "name": "Seattle United G15/16 Pre-ECNL",
+   "rating": 1806,
+   "games": 11
+  },
+  {
+   "id": "1a807c61-cc12-4391-b1ac-2e17621a1007",
+   "name": "Eastside FC G15/16 Pre-ECNL 2",
+   "rating": 1798,
+   "games": 9
+  },
+  {
+   "id": "cb924add-b318-4be9-b1cf-b0fd5ca68d3c",
+   "name": "PacNW SC G15/16 Pre-ECNL",
+   "rating": 1793,
+   "games": 7
+  },
+  {
+   "id": "a2df4392-661b-4e06-a33d-ba8e6f373d4d",
+   "name": "Sozo FC G15/16 Gold",
+   "rating": 1748,
+   "games": 5
+  },
+  {
+   "id": "c850f13b-03e3-4ab6-bf91-91eeabb4526e",
+   "name": "Seattle Celtic G15/16 Pre-GA",
+   "rating": 1746,
+   "games": 12
+  },
+  {
+   "id": "1da64f19-d204-4f22-90d6-e0391a706538",
+   "name": "WPFC G15/16 Pre-ECNL",
+   "rating": 1688,
+   "games": 9
+  },
+  {
+   "id": "0e9f1821-c969-422e-9f9a-1e637257bb1d",
+   "name": "Snohomish United G15/16 Pre-ECNL",
+   "rating": 1679,
+   "games": 4
+  },
+  {
+   "id": "fdc90791-fb55-41b4-ade0-e23767b1f544",
+   "name": "Seattle United G15 Pre-ECNL Copa",
+   "rating": 1671,
+   "games": 7
+  },
+  {
+   "id": "8cffea2a-5bca-465b-9ee5-71bc5b0076a4",
+   "name": "Kitsap Alliance FC G15/16 Blue",
+   "rating": 1664,
+   "games": 5
+  },
+  {
+   "id": "cf86b676-c3a6-4967-b155-dfe18d123737",
+   "name": "Dragons FC G15",
+   "rating": 1659,
+   "games": 10
+  },
+  {
+   "id": "ce4e377c-d76b-4266-acd0-d98abd1a285f",
+   "name": "Eastside FC G15/16 Red",
+   "rating": 1574,
+   "games": 8
+  },
+  {
+   "id": "09f7dbe3-3f23-4e69-a1ce-6a4ea97ad123",
+   "name": "PacNW SC G15/16 Maroon A",
+   "rating": 1574,
+   "games": 4
+  },
+  {
+   "id": "e9468d06-96ca-4135-8794-e50f44ae4caf",
+   "name": "Eastside FC West G15/16 Maroon",
+   "rating": 1562,
+   "games": 8
+  },
+  {
+   "id": "370e58a1-9872-4cd8-96e5-73f72689340c",
+   "name": "Seattle Celtic G15 Green",
+   "rating": 1560,
+   "games": 8
+  },
+  {
+   "id": "cffbb091-a189-4d12-85d1-878a64e7761a",
+   "name": "WPFC G15 White B",
+   "rating": 1554,
+   "games": 5
+  },
+  {
+   "id": "227e3b39-95c8-4771-a163-d4f8a3c9f43b",
+   "name": "WPFC G15 Black A",
+   "rating": 1545,
+   "games": 7
+  },
+  {
+   "id": "9f3a41fd-4a78-46aa-a800-34cf3380063e",
+   "name": "XF Select G15/16 A Doleac",
+   "rating": 1536,
+   "games": 5
+  },
+  {
+   "id": "a968d915-2ebf-47fb-8abf-d2d085f98db6",
+   "name": "Emerald City FC G15/16 Green ( G )",
+   "rating": 1513,
+   "games": 8
+  },
+  {
+   "id": "50d4ad17-0a2d-4a20-b575-2865d73b6d27",
+   "name": "Seattle Celtic G15/16 Pre-GA Aspire",
+   "rating": 1496,
+   "games": 7
+  },
+  {
+   "id": "5c16bf8e-940c-4829-87e2-d2671d4f1a18",
+   "name": "Highline Premier FC G15/16 RCL Blue",
+   "rating": 1496,
+   "games": 6
+  },
+  {
+   "id": "ec84d7ad-f5ce-4e20-9397-acfc83fd0ac9",
+   "name": "Harbor Soccer Club Premier G15/16 RCL 1",
+   "rating": 1481,
+   "games": 5
+  },
+  {
+   "id": "dd2e76a4-5da8-48df-886d-269aabbeb8be",
+   "name": "XF Select G15/16 B Rosales",
+   "rating": 1464,
+   "games": 8
+  },
+  {
+   "id": "d946c635-543f-4a59-a273-e03f592ac1ac",
+   "name": "Seattle United Shoreline G15 Blue Leahy",
+   "rating": 1447,
+   "games": 4
+  },
+  {
+   "id": "59f7a8ef-3b42-4fe7-8c8e-6ab236535c42",
+   "name": "Lake Washington Premier FC G15/16 White Barracudas",
+   "rating": 1440,
+   "games": 7
+  },
+  {
+   "id": "adc1b674-161e-413f-8ca3-d3d3ce46171e",
+   "name": "Seattle United South G15",
+   "rating": 1436,
+   "games": 4
+  },
+  {
+   "id": "caffa99d-831a-4c50-9ada-af84deb3f246",
+   "name": "West Sound Soccer Academy G15/16",
+   "rating": 1428,
+   "games": 6
+  },
+  {
+   "id": "c4231415-4c2a-43d6-9e4a-552908d9f598",
+   "name": "Mt. Rainier FC G15/16 Academy-1",
+   "rating": 1424,
+   "games": 6
+  },
+  {
+   "id": "a5ee6e79-235f-484d-a9a4-883383abf21b",
+   "name": "Seattle United Northwest G15/16 Blue",
+   "rating": 1419,
+   "games": 7
+  },
+  {
+   "id": "010f64a8-3ee8-48bc-9fe3-e7e507f54a88",
+   "name": "Lake Washington Premier FC G15/16 White STINGRAYS",
+   "rating": 1408,
+   "games": 5
+  },
+  {
+   "id": "f2349e77-1e77-4e51-b784-ef18296edd32",
+   "name": "Highline Premier FC G15/16 Red WPL",
+   "rating": 1408,
+   "games": 4
+  },
+  {
+   "id": "2334c241-8873-4140-8378-96199aedbfb6",
+   "name": "Seattle Celtic G15 Black",
+   "rating": 1405,
+   "games": 4
+  },
+  {
+   "id": "515c293d-8fc7-4186-9544-8f6276f7a769",
+   "name": "Eastside FC G15/16 Blue",
+   "rating": 1396,
+   "games": 3
+  },
+  {
+   "id": "161ff55c-7e3a-426a-b81a-7d72de2dbed3",
+   "name": "XF G15/16 RCL 2",
+   "rating": 1393,
+   "games": 15
+  },
+  {
+   "id": "d3b664fb-ab59-42aa-b6ff-9efa2ea0c8cd",
+   "name": "Seattle United Shoreline Select G15/16 White",
+   "rating": 1386,
+   "games": 7
+  },
+  {
+   "id": "1a4d1b39-0174-4c1b-9aae-a2f2a6cf4c6c",
+   "name": "Wenatchee FA G15/16 Willett",
+   "rating": 1384,
+   "games": 3
+  },
+  {
+   "id": "a3c5ea54-9437-4665-ab6f-4eb5abc1cdc4",
+   "name": "Seattle Celtic G15 Orange",
+   "rating": 1357,
+   "games": 4
+  },
+  {
+   "id": "06af8a5d-f381-4d3f-98d9-3d08b81201f9",
+   "name": "Seattle Celtic G15 White",
+   "rating": 1322,
+   "games": 7
+  },
+  {
+   "id": "21f39bbc-23e0-4426-ae94-dd419bf97fbc",
+   "name": "Emerald City FC G15/16 White Football",
+   "rating": 1302,
+   "games": 6
+  }
+ ],
+ "girls-2016": [
+  {
+   "id": "f8d2fd78-f58d-4d8f-9088-b9e62b992196",
+   "name": "Eastside FC G16/17 Red",
+   "rating": 2278,
+   "games": 13
+  },
+  {
+   "id": "d12182cf-3734-469c-8d9e-98a2fbd48cb3",
+   "name": "XF G16/17 RCL 1",
+   "rating": 2263,
+   "games": 20
+  },
+  {
+   "id": "373a1895-1b75-4cb0-a5d9-a0b497a3b810",
+   "name": "Seattle United G16 Copa",
+   "rating": 1943,
+   "games": 9
+  },
+  {
+   "id": "94a7bf32-bebd-4737-9547-2eaaa4d0df26",
+   "name": "XF G16/17 RCL 2",
+   "rating": 1884,
+   "games": 14
+  },
+  {
+   "id": "170e44a4-dbbe-49d9-ba91-1aa098eec313",
+   "name": "Dragons FC G16/17",
+   "rating": 1868,
+   "games": 14
+  },
+  {
+   "id": "74d7e126-90f2-4d8e-b4b9-4116c78d22fd",
+   "name": "Harbor Soccer Club Premier G16/17 RCL 1",
+   "rating": 1811,
+   "games": 8
+  },
+  {
+   "id": "0ea3e96d-9b1d-4472-b09c-b6c7b0d03520",
+   "name": "PacNW SC G16/17 Maroon A",
+   "rating": 1792,
+   "games": 6
+  },
+  {
+   "id": "8649b091-40a4-4e97-8864-7227ace67cbe",
+   "name": "XF G16/17 RCL 3",
+   "rating": 1738,
+   "games": 17
+  },
+  {
+   "id": "2a0ea43f-6c15-455f-8576-0cdeeb276d00",
+   "name": "Eastside FC West G16/17 Maroon",
+   "rating": 1727,
+   "games": 5
+  },
+  {
+   "id": "39636c5d-8087-472a-b5c5-39f89537336e",
+   "name": "Snohomish United G16/17 Black",
+   "rating": 1723,
+   "games": 5
+  },
+  {
+   "id": "e4c0700c-51ca-4ad9-b69e-605eaf52ae11",
+   "name": "XF Select G16/17 A Hernandez",
+   "rating": 1720,
+   "games": 9
+  },
+  {
+   "id": "7329c74d-aa1c-4d01-800c-0c646f526460",
+   "name": "WPFC G16 Black A",
+   "rating": 1714,
+   "games": 10
+  },
+  {
+   "id": "91b98427-232f-4849-905f-ebbe63d59824",
+   "name": "Seattle Celtic G16 Green",
+   "rating": 1713,
+   "games": 12
+  },
+  {
+   "id": "cbde814a-4dac-4235-9ae4-16b09fd72726",
+   "name": "Seattle United G16 Samba",
+   "rating": 1708,
+   "games": 4
+  },
+  {
+   "id": "819403da-8700-4833-a346-61860bba0e3a",
+   "name": "PacNW SC G16/17 Blue B",
+   "rating": 1705,
+   "games": 5
+  },
+  {
+   "id": "5bcfe115-a93f-48b1-89dd-f355746dcf54",
+   "name": "WW Surf Central G16/17 NPL A",
+   "rating": 1697,
+   "games": 8
+  },
+  {
+   "id": "851ccc19-8516-4614-9f08-0c9b907089b3",
+   "name": "Valor Soccer Premier G16/17 Gold",
+   "rating": 1669,
+   "games": 7
+  },
+  {
+   "id": "f24f929a-33b2-4fae-a51a-80c788191bb8",
+   "name": "Seattle United G16/17 Tango",
+   "rating": 1665,
+   "games": 10
+  },
+  {
+   "id": "e504ed61-89c8-4582-b4a3-5963c5f17164",
+   "name": "Sparta Tacoma G16/17 Red",
+   "rating": 1656,
+   "games": 5
+  },
+  {
+   "id": "3f72de71-1ef2-4ceb-9116-09b13a8a7746",
+   "name": "Kitsap Alliance FC G16/17 Blue",
+   "rating": 1631,
+   "games": 3
+  },
+  {
+   "id": "5287bf00-d497-4960-a975-356f29d81f78",
+   "name": "Highline Premier FC G16/17 RCL Blue",
+   "rating": 1625,
+   "games": 4
+  },
+  {
+   "id": "20424636-79b4-4899-a07b-e1d3ae83fd0c",
+   "name": "WPFC G16 White B",
+   "rating": 1571,
+   "games": 7
+  },
+  {
+   "id": "f8336b00-4b27-4708-ba82-cf7f48a1f08f",
+   "name": "WW Surf Academy G16/17 B",
+   "rating": 1540,
+   "games": 9
+  },
+  {
+   "id": "89a3bd63-8326-4734-b614-c1ec4b57587f",
+   "name": "Eastside FC G16/17 Blue",
+   "rating": 1530,
+   "games": 7
+  },
+  {
+   "id": "63a6c7ca-c800-4f63-ab80-fe80fcfd79de",
+   "name": "BVB International Academy Washington G16/17 NPL/WPL",
+   "rating": 1507,
+   "games": 3
+  },
+  {
+   "id": "9f5cf278-56c1-418d-9d61-451a8d5f8428",
+   "name": "Mt. Rainier FC G16/17 Jr. Academy-1",
+   "rating": 1506,
+   "games": 7
+  },
+  {
+   "id": "0874be5c-b932-48e2-ba8f-6b2a541ad814",
+   "name": "Seattle Celtic G16 Black",
+   "rating": 1476,
+   "games": 10
+  },
+  {
+   "id": "7d524f98-3bef-4159-876c-3f46e4ed6995",
+   "name": "Seattle Celtic G16 Orange",
+   "rating": 1465,
+   "games": 6
+  },
+  {
+   "id": "4d2b4796-6e0a-4761-a755-bd6e4be6d078",
+   "name": "Washington Rush Select G16/17",
+   "rating": 1453,
+   "games": 4
+  },
+  {
+   "id": "a4121414-2c56-486f-b0ae-e69b3d9bafca",
+   "name": "XF Select G16/17 B",
+   "rating": 1445,
+   "games": 4
+  },
+  {
+   "id": "1696e525-fe20-4e6e-b6e7-b67a0fa5d7ec",
+   "name": "Eastside FC G16/17 White",
+   "rating": 1443,
+   "games": 11
+  },
+  {
+   "id": "205b8c22-5f79-4c00-8ef3-6ab66f04c1ad",
+   "name": "Sozo FC G16/17 Gold",
+   "rating": 1406,
+   "games": 3
+  },
+  {
+   "id": "1dcc5c18-cc29-4d73-8eb2-4a76b577e3fd",
+   "name": "Valor Soccer Select G16/17",
+   "rating": 1383,
+   "games": 3
+  },
+  {
+   "id": "15411566-b556-49ca-a028-b06a5e92183a",
+   "name": "XF Select G16/17 C",
+   "rating": 1382,
+   "games": 3
+  },
+  {
+   "id": "daab75f6-a257-4d81-ae84-4126e3e59c72",
+   "name": "Seattle United Northwest G16/17",
+   "rating": 1381,
+   "games": 6
+  },
+  {
+   "id": "1bf4965f-2dd0-4795-873c-d9b280311ac2",
+   "name": "Wenatchee FA G16/17 Black McInnes",
+   "rating": 1358,
+   "games": 3
+  },
+  {
+   "id": "3fb9427a-ff44-48db-a9ea-7de2f1de5d27",
+   "name": "Seattle United South G16/17",
+   "rating": 1349,
+   "games": 3
+  }
+ ],
+ "girls-2017": [
+  {
+   "id": "b2dcd547-337f-465d-a9bb-569c90377bf1",
+   "name": "XF G17/18 RCL 1",
+   "rating": 2150,
+   "games": 18
+  },
+  {
+   "id": "b1739f6a-3fcc-45b3-ad8a-63372f6e868f",
+   "name": "PacNW SC G17/18 Maroon A",
+   "rating": 2036,
+   "games": 8
+  },
+  {
+   "id": "5ec91c8c-925c-4bf5-9ee5-ac1d680ae834",
+   "name": "Seattle United G17 Copa",
+   "rating": 2006,
+   "games": 9
+  },
+  {
+   "id": "ae3a0568-e582-4a6f-8911-0e9ca52cdf0c",
+   "name": "Seattle United G17 Tango",
+   "rating": 1985,
+   "games": 9
+  },
+  {
+   "id": "a195eb2b-698f-4723-88f6-e6361e42efe5",
+   "name": "Eastside FC G17/18 Red",
+   "rating": 1976,
+   "games": 8
+  },
+  {
+   "id": "d4a9ffa0-8956-4cc4-81ae-3a9360e90c4d",
+   "name": "Seattle Celtic G17 Green",
+   "rating": 1890,
+   "games": 9
+  },
+  {
+   "id": "6f814806-99bc-47dc-a4e1-fc3ec926bb15",
+   "name": "Warriors G17/18 Attack",
+   "rating": 1859,
+   "games": 5
+  },
+  {
+   "id": "940aa24c-c066-40cc-8d54-f37d2858def5",
+   "name": "WW Surf Academy G17/18 A",
+   "rating": 1802,
+   "games": 12
+  },
+  {
+   "id": "06180ee2-405b-49d3-9177-4e8e358a25bb",
+   "name": "XF G17/18 RCL 2",
+   "rating": 1780,
+   "games": 15
+  },
+  {
+   "id": "4577f35a-fcaf-43a6-a6ff-bd4d2ff26438",
+   "name": "Seattle United G17 Samba",
+   "rating": 1748,
+   "games": 5
+  },
+  {
+   "id": "37f7eded-8287-4ee8-a353-0786ff3a198f",
+   "name": "WPFC G17 Black A",
+   "rating": 1712,
+   "games": 7
+  },
+  {
+   "id": "7cfe78d1-72bf-4d73-b0a2-097d51f75261",
+   "name": "Eastside FC G17/18 White",
+   "rating": 1697,
+   "games": 5
+  },
+  {
+   "id": "f1787934-eccc-4c1b-afde-e2f396165607",
+   "name": "Snohomish United G17/18 Black",
+   "rating": 1669,
+   "games": 4
+  },
+  {
+   "id": "0c881a29-e8e5-4327-a224-5b172a16603f",
+   "name": "WW Surf Academy G17/18 B",
+   "rating": 1652,
+   "games": 4
+  },
+  {
+   "id": "59c713cf-aa94-42ef-b5ee-fe81bcea5cc7",
+   "name": "Harbor Soccer Club Premier G17/18 RCL 1",
+   "rating": 1644,
+   "games": 5
+  },
+  {
+   "id": "c08d63f5-bf5f-49f6-a53b-afe7fbddd8fe",
+   "name": "WPFC G17 White B",
+   "rating": 1613,
+   "games": 4
+  },
+  {
+   "id": "518ee94e-a15c-415c-831d-9224a173282d",
+   "name": "Kitsap Alliance FC G17/18 Blue",
+   "rating": 1613,
+   "games": 4
+  },
+  {
+   "id": "c70d3a83-fd2a-44f6-9abc-d78c13df3dad",
+   "name": "Mt. Rainier FC G17/18 Jr. Academy-1",
+   "rating": 1599,
+   "games": 5
+  },
+  {
+   "id": "7c65251d-87ae-4e8a-8d45-a5486e95c2d5",
+   "name": "XF Select G17/18 A Clarke",
+   "rating": 1597,
+   "games": 7
+  },
+  {
+   "id": "7a18926c-e746-4c98-ba42-5568bdba4743",
+   "name": "Eastside FC West G17/18 Maroon",
+   "rating": 1589,
+   "games": 4
+  },
+  {
+   "id": "77f5ce60-01e0-4435-a6ba-6c871177269b",
+   "name": "Kitsap Alliance FC G17/18 White",
+   "rating": 1583,
+   "games": 4
+  },
+  {
+   "id": "d81be725-9608-43e3-86f4-afe419bc9c12",
+   "name": "Wenatchee FA G17/18 Black Mcinnes",
+   "rating": 1565,
+   "games": 5
+  },
+  {
+   "id": "c38d7af6-3b23-4d23-ac46-ae482134628c",
+   "name": "Valor Soccer Premier G17/18 Gold",
+   "rating": 1552,
+   "games": 4
+  },
+  {
+   "id": "f4f9077c-b527-4933-9091-ec831503aa1e",
+   "name": "Eastside FC G17/18 Blue",
+   "rating": 1549,
+   "games": 4
+  },
+  {
+   "id": "3bfcc441-35cb-462b-863a-c63a76003aae",
+   "name": "Highline Premier FC G17/18 Blue WPL",
+   "rating": 1503,
+   "games": 4
+  },
+  {
+   "id": "378cfd74-3562-4109-a53e-5700e1ff700f",
+   "name": "BVB International Academy Washington G17/18 NPL/WPL",
+   "rating": 1472,
+   "games": 7
+  },
+  {
+   "id": "bd849282-f638-4ebb-a790-b7fe51c087fb",
+   "name": "XF Select G17/18 B",
+   "rating": 1410,
+   "games": 7
+  },
+  {
+   "id": "9cea9852-029a-414b-ad4d-c2ee51f0a44b",
+   "name": "Wenatchee FA G17/18 Red",
+   "rating": 1388,
+   "games": 7
+  }
+ ],
+ "girls-2018": [
+  {
+   "id": "caecea8b-0edb-4b36-85c0-7dcc609706eb",
+   "name": "XF G18/19 RCL 1",
+   "rating": 2440,
+   "games": 17
+  },
+  {
+   "id": "7eb7bd07-813f-4e9c-8a0a-0dd90b187a7f",
+   "name": "Eastside FC G18/19 Red",
+   "rating": 2113,
+   "games": 7
+  },
+  {
+   "id": "9ed0b825-e5cc-436b-b0b1-ff80d88ea0e7",
+   "name": "XF G18/19 RCL 2",
+   "rating": 1955,
+   "games": 15
+  },
+  {
+   "id": "ccc078ee-6bb5-4a23-96ef-05a5c5c88129",
+   "name": "Seattle United G18 Copa",
+   "rating": 1909,
+   "games": 7
+  },
+  {
+   "id": "4365c0d3-6026-4623-9f54-a1fa0fed9b5e",
+   "name": "WPFC G18 Black A",
+   "rating": 1843,
+   "games": 7
+  },
+  {
+   "id": "006fb8b4-cccd-45de-966d-c8830a0b3445",
+   "name": "PacNW SC G18/19 Maroon A",
+   "rating": 1768,
+   "games": 3
+  },
+  {
+   "id": "cdafc865-8cfa-49f8-902f-463e7bc66020",
+   "name": "Snohomish United G18/19 Black",
+   "rating": 1653,
+   "games": 4
+  },
+  {
+   "id": "c40b39b6-b527-4d26-8542-c9279843c550",
+   "name": "Seattle Celtic G18 Green",
+   "rating": 1610,
+   "games": 5
+  },
+  {
+   "id": "9af271b9-7a3c-4949-851f-181b44e83f9c",
+   "name": "Eastside FC G18/19 White",
+   "rating": 1598,
+   "games": 4
+  },
+  {
+   "id": "9b4eace7-61a5-4126-b378-b75320fd2fcf",
+   "name": "XF G18/19 RCL 3",
+   "rating": 1525,
+   "games": 13
+  },
+  {
+   "id": "d59400a1-6e88-4ccc-abba-a42b8c2bddfb",
+   "name": "XF Select G18/19 A Santos",
+   "rating": 1506,
+   "games": 4
+  },
+  {
+   "id": "ea619f5b-14b8-4a76-8f3d-221dbc7515e7",
+   "name": "Wenatchee FA G18/19 Black",
+   "rating": 1360,
+   "games": 7
+  }
+ ]
+}
