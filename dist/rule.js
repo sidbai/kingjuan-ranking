@@ -37,6 +37,8 @@ export function expected(home, away) {
     return 1 / (1 + 10 ** ((away - home) / 400));
 }
 export const RULE_VERSION = "2026-09-17p";
+/** Where the rule lives, for a page that explains it to say so: anyone can read it, run it on the season's games, and propose a change. */
+export const RULE_SOURCE = "https://github.com/sidbai/kingjuan-ranking";
 export const K = 45;
 export const MARGIN_CAP = 3;
 export const MIN_GAMES = 3;

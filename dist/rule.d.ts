@@ -35,6 +35,8 @@ import { type FlightLevel } from "./tier.js";
 /** The home side's expected score, 0–1: the Elo expectation. */
 export declare function expected(home: number, away: number): number;
 export declare const RULE_VERSION = "2026-09-17p";
+/** Where the rule lives, for a page that explains it to say so: anyone can read it, run it on the season's games, and propose a change. */
+export declare const RULE_SOURCE = "https://github.com/sidbai/kingjuan-ranking";
 export declare const K = 45;
 export declare const MARGIN_CAP = 3;
 export declare const MIN_GAMES = 3;
