@@ -73,3 +73,6 @@ The site pins a tagged version and stamps every ranking run with
 | `scripts/evaluate.ts` | the evaluation the tables are judged by |
 
 MIT.
+
+`dist/` is committed so the site can depend on a tag straight from GitHub
+without a build step; run `pnpm build` before committing a change to `src/`.
