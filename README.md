@@ -23,8 +23,8 @@ surprising the result was — an Elo replay (`replay`) where margin counts as
 count by their league, tournament games by the tier and flight they were
 played in (`weightOf`), and playing a side a year older pays on top. A flight's
 champion and runner-up earn a bonus by the flight's tier (`honourBonus`): a
-national cup's top flight 240 points, a rec cup's 20. Three decided games to
-be ranked at all. `RULE_STEPS` says the same thing at length, as the site does.
+national cup's top flight 240 points, a rec cup's 20. One decided game to
+be ranked at all, fewer than five provisional. `RULE_STEPS` says the same thing at length, as the site does.
 
 Two things are read from the games rather than declared: which flight of a
 tournament is its top one (`orderFlights` — by the league level of the teams

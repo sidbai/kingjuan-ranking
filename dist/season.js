@@ -6,7 +6,7 @@
  * which final) and hands this the answers, so a change to the rule can be
  * judged on a fixture file with no database in sight.
  */
-import { carriedPrior, replay, SELECT } from "./rule.js";
+import { carriedPrior, MIN_GAMES, replay, SELECT } from "./rule.js";
 import { honourBonus } from "./tier.js";
 export function rateSeason(input) {
     const team = new Map(input.teams.map((t) => [t.id, t]));
@@ -34,7 +34,7 @@ export function rateSeason(input) {
  * cut to `top`. What the site's rankings page shows, and what a change
  * to the rule is judged by.
  */
-export function rankCohorts(input, out, { top = 50, minGames = 3 } = {}) {
+export function rankCohorts(input, out, { top = 50, minGames = MIN_GAMES } = {}) {
     const cohorts = new Map();
     for (const t of input.teams) {
         const r = out.rated.get(t.id);

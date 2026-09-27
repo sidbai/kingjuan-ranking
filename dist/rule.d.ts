@@ -25,7 +25,9 @@
  *    it pays more and losing to it costs less; and every game against an
  *    older side earns a credit whatever the result, because it is the
  *    strongest teams that choose to play up. Two years older, twice both.
- * 4. Confidence — three decided games to be ranked at all.
+ * 4. Confidence — one decided game to be ranked at all (owner, 2026-09-27:
+ *    it was three, which left a state whose season had just opened with
+ *    eight teams in a cohort of fifteen); fewer than five is provisional.
  *
  * This ranks a cohort and starts everyone where their league puts them;
  * the site's fixture forecast is a different model (it starts everyone
@@ -34,12 +36,12 @@
 import { type FlightLevel } from "./tier.js";
 /** The home side's expected score, 0–1: the Elo expectation. */
 export declare function expected(home: number, away: number): number;
-export declare const RULE_VERSION = "2026-09-17p";
+export declare const RULE_VERSION = "2026-09-27";
 /** Where the rule lives, for a page that explains it to say so: anyone can read it, run it on the season's games, and propose a change. */
 export declare const RULE_SOURCE = "https://github.com/sidbai/kingjuan-ranking";
 export declare const K = 45;
 export declare const MARGIN_CAP = 3;
-export declare const MIN_GAMES = 3;
+export declare const MIN_GAMES = 1;
 /** What a year of age is worth in the expectation, per year the older side has. */
 export declare const AGE_GAP = 150;
 /** What playing a side a year older earns, win or lose, per game. */
@@ -58,8 +60,8 @@ export type Level = {
  * worth +240 in July is +120 the next May and +60 the year after. Half,
  * because rosters turn over: what a side proved is evidence, not a title
  * deed (owner, 2026-09-17: continue a team's history, and let the others
- * catch up). A team that was not ranked last season — fewer than three
- * games, or new — starts from its league prior alone.
+ * catch up). A team that was not ranked last season — no decided game,
+ * or new — starts from its league prior alone.
  */
 export declare const CARRY = 0.5;
 export declare function carriedPrior(leaguePrior: number, last: {
@@ -161,5 +163,5 @@ export declare const RULE_STEPS: {
  * The rule in a breath — what the site and the app show, with a link to
  * this repository for the rest. RULE_STEPS is the long form.
  */
-export declare const RULE_SUMMARY = "Every team starts where its league puts it \u2014 ECNL at the top, then MLS Next, ECNL RL, EA and GA, RCL and WPL division by division \u2014 plus half of what it earned last season. Every decided game since May then moves both sides by how surprising the result was: tournament games count by the strength of the flight, a trophy adds a bonus by its tier, and playing up pays extra. Three decided games to be ranked; Washington clubs\u2019 teams are listed, whether the club lists them or a schedule did.";
+export declare const RULE_SUMMARY = "Every team starts where its league puts it \u2014 ECNL at the top, then MLS Next, ECNL RL, EA and GA, RCL and WPL division by division \u2014 plus half of what it earned last season. Every decided game since May then moves both sides by how surprising the result was: tournament games count by the strength of the flight, a trophy adds a bonus by its tier, and playing up pays extra. One decided game to be ranked; Washington clubs\u2019 teams are listed, whether the club lists them or a schedule did.";
 export declare const RULE_NOTE = "A cohort is a gender and the oldest birth year on the team, so a \u201CB13/14\u201D side ranks with the 2013s \u2014 U13 this season, the way the leagues label it. Washington clubs\u2019 teams are listed \u2014 the club\u2019s own and the ones a schedule printed under its name (owner, 2026-09-18) \u2014 but not a side with no club, and not an out-of-state club\u2019s; games against all of them still count.";

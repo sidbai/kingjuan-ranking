@@ -117,7 +117,7 @@ describe("carriedPrior", () => {
     const { carriedPrior } = await import("./rule.js");
     expect(carriedPrior(1680, { rating: 2240, games: 20 })).toBe(1960);
     expect(carriedPrior(1680, { rating: 1480, games: 8 })).toBe(1580);
-    expect(carriedPrior(1680, { rating: 2240, games: 2 })).toBe(1680);
+    expect(carriedPrior(1680, { rating: 2240, games: 0 })).toBe(1680);
     expect(carriedPrior(1680, undefined)).toBe(1680);
   });
 });

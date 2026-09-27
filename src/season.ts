@@ -7,7 +7,7 @@
  * judged on a fixture file with no database in sight.
  */
 
-import { carriedPrior, replay, SELECT, type Game, type Level } from "./rule.js";
+import { carriedPrior, MIN_GAMES, replay, SELECT, type Game, type Level } from "./rule.js";
 import { honourBonus, type FlightLevel } from "./tier.js";
 import type { RankedHonour } from "./types.js";
 
@@ -91,7 +91,7 @@ export function rateSeason(input: SeasonInput): SeasonOutput {
  * cut to `top`. What the site's rankings page shows, and what a change
  * to the rule is judged by.
  */
-export function rankCohorts(input: SeasonInput, out: SeasonOutput, { top = 50, minGames = 3 }: { top?: number; minGames?: number } = {}): Map<string, { id: string; rating: number; games: number }[]> {
+export function rankCohorts(input: SeasonInput, out: SeasonOutput, { top = 50, minGames = MIN_GAMES }: { top?: number; minGames?: number } = {}): Map<string, { id: string; rating: number; games: number }[]> {
   const cohorts = new Map<string, { id: string; rating: number; games: number }[]>();
   for (const t of input.teams) {
     const r = out.rated.get(t.id);
